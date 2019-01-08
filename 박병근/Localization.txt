@@ -1,0 +1,3 @@
+KEY,Korean,English
+Flas,Flas kr,Flag us
+Language,ÇÑ±¹¾î,English

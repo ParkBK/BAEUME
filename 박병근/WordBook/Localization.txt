@@ -1,0 +1,50 @@
+﻿KEY, Korea, Việt Nam
+언어,한국어, Tiếng Việt
+교육, 교육, Giáo dục
+단어장, 단어장, Bảng từ mới 
+일반 회화, 일반 회화,  Hội thoại cơ bản
+연습, 연습, Luyện tập
+자음, 자음, Phụ âm
+쌍자음, 쌍 자음, Phụ âm đôi
+모음, 모음,  Nguyên âm
+이중 모음, 이중 모음, Nguyên âm ghép
+ㄱ, 기역,"기역 (Gi yok) \n phát âm : g, k " 
+ㄴ, 니은,"니은 (Ni uin) \n phát âm : n "
+ㄷ, 디귿,"디귿 (Ti guit) \n phát âm : t "
+ㄹ, 리을,"리을 (Ri uil) \n phát âm : r, l "
+ㅁ, 미음,"미음 (Mi uim) \n phát âm : m "
+ㅂ, 비읍,"비읍 (Bi uip) \n phát âm : p, b "
+ㅅ, 시옷,"시옷 (Si oot) \n phát âm : s "
+ㅇ, 이응,"이응 (I uing) \n phát âm : ng "
+ㅈ, 지읒,"지읒 (Chi uit) \n phát âm : ch "
+ㅊ, 치읒,"치읒 (Ch'i uit) \n phát âm : ch' "
+ㅋ, 키읔,"키읔 (Khi uit) \n phát âm : kh "
+ㅌ, 티읕,"티읕 (Thi uit) \n phát âm : th "
+ㅍ, 피읖,"피읖 (Phi uip) \n phát âm : ph "
+ㅎ, 히읗,"히읗 (Hi uit) \n phát âm : h "
+ㄲ, ㄲ, 쌍기역,"쌍기역 (ssang gi yok) \n phát âm : kk "
+ㄸ, ㄸ, 쌍디귿,"쌍디귿 (ssang ti guit) \n phát âm : tt "
+ㅃ, ㅃ, 쌍비읍,"쌍바읍 (ssang bi uip) \n phát âm : pp "
+ㅆ, ㅆ, 쌍시옷,"쌍시옷 (ssang si oot) \n phát âm : ss "
+ㅉ, ㅉ, 쌍기역,"쌍지읒 (ssang jji uit) \n phát âm : jj "
+ㅏ, ㅏ, "아 \n phát âm : a "
+ㅑ, ㅑ, "야 \n phát âm : ya "
+ㅓ, ㅓ, "어 \n phát âm : ơ "
+ㅕ, ㅕ, "여 \n phát âm : yơ "
+ㅗ, ㅗ, "오 \n phát âm : ô "
+ㅛ, ㅛ, "요 \n phát âm : yô "
+ㅜ, ㅜ, "우 \n phát âm : u "
+ㅠ, ㅠ, "유 \n phát âm : yu "
+ㅡ, ㅡ, "으 \n phát âm : ư "
+ㅣ, ㅣ, "이 \n phát âm : i "
+ㅐ, ㅐ, "애 \n phát âm : e "
+ㅒ, ㅒ, "얘 \n phát âm : ye "
+ㅔ, ㅔ, "에 \n phát âm : ê "
+ㅖ, ㅖ, "예 \n phát âm : yê "
+ㅘ, ㅘ, "와 \n phát âm : oa "
+ㅙ, ㅙ, "왜 \n phát âm : oe "
+ㅚ, ㅚ, "와 \n phát âm : uê "
+ㅝ, ㅝ, "워 \n phát âm : uơ "
+ㅞ, ㅞ, "웨 \n phát âm : uê "
+ㅟ, ㅟ, "위 \n phát âm : uy "
+ㅢ, ㅢ, "의 \n phát âm : ưi "

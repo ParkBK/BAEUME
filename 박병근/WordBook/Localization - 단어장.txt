@@ -301,7 +301,7 @@ Day 28
 친절하다, trin chơl ha ta, thân thiện
 착하다, trak ha ta, hiền lành, ngoan ngoãn
 내성적, ne sơng chơk, tính hướng nội  
-외향성, uê sơng chơk, tính hướng nội
+외향성, uê sơng chơk, tính hướng ngoại
 수줍음을 타다, su chup ưm ưl tha ta, xấu hổ, ngượng
 부끄럽다, bu kkư rơp ta, ngại ngùng
 창피하다, trang phi ha ta, xấu hổ, bẽ mặt
@@ -364,37 +364,729 @@ Day 33
 끊기다, kkưn ki ta, bị ngắt 
 이용되다, i yoong tuê ta, được sử dụng
 Day 34
-미용실
-염색하다
-파마하다
-피부관리
-마사지를 하다
-브랜드
-멋쟁이
-메이크업
-성형수술
-최신 유행
+미용실, mi yông sil, tiệm cắt tóc, tiệm thẩm mĩ
+염색하다, y ơm sec ha ta, nhuộm
+파마하다, pha ma ha ta, làm xoăn
+피부관리, phi bu quan li, quản lí da
+마사지를 하다, ma sa chi rưl ha ta, mát sa
+브랜드, bư len tư, thương hiệu
+멋쟁이, mơt cheng i, người sành điệu
+메이크업, mê i khư ơp, makeup
+성형수술, sơng hiơng su sul, phẫu thuật thẩm mĩ
+최신 유행, truê sin yu heng, mốt mới nhất
+Day 35
+등록하다, tưng rô k ha ta, đăng kí
+동아리, tông a ri, câu lạc bộ
+시험을 보다, si hơm ưl bô ta, thi
+참여하다, tram yơ ha ta, tham gia
+반드시, ban tư si, nhất định
+토론하다, thô lôn ha ta, thảo luận
+언어, ơn ơ, ngôn ngữ 
+자유, cha yu, tự do
+특히, thưk hi, đặc biệt
+모집하다, mô chip ha ta, tuyển chọn
+Day 36
+색/ 색깔, sek/ sek kkal, màu/ màu sắc
+파란색, pha ran sek, màu xanh dương
+빨간색, ppal kan sek, màu đỏ
+보라색, bô ra sek, màu tím
+노란색, nô ran sek, màu vàng
+분홍색, bun hông sek, màu hồng
+밤색, bam sek, màu nâu
+까만색, kka man sek, màu đen
+하얀색, ha yan sek, màu trắng
+회색, huê sek, màu xám
+초록색, trô rôk sek, màu xanh lá cây
+오렌지색, ô rên chi sek, màu cam
+Day 37
+현재, hiơn che, hiện tại
+지금, chi k ưm, bây giờ
+행사, heng sa, sự kiện
+봉사활동, bông sa hoal tông, hoạt động từ thiện
+기업, ki ơp, doanh nghiệp
+축제, truk chê, lễ hội
+통역하다, thông yơk ha ta, thông dịch
+환영하다, hoan yong ha ta, hoan nghênh
+회원, huê uơn, hội viên
+설명하다, sơl miêng ha ta, giải thích
+Day 38
+성격이 좋다, sơng kiơk i chôt ta, tính tốt
+인기가 있다, in ki ka it ta, có tiếng, có sự hâm mộ
+사귀다, sa quy ta, kết (bạn)
+부탁하다, bu thak ha ta, nhờ vả
+겁이 나다, kơp i na ta, sợ
+포기하다, phô ki ha ta, bỏ cuộc
+고민, kô min, lo lắng
+느끼다, nư kki ta, cảm nhận
+물론, mul lôn, tất nhiên
+요약, yô yak, tóm tắt
+Day 39
+건강하다, k ơn kang ha ta, khỏe mạnh
+피곤하다, phi k ôn ha ta, mệt mỏi
+심심하다, sim sim ha ta, buồn chán
+힘들다, him tưl ta, mệt mỏi
+쉬다, suy ta, nghỉ ngơi
+잠을 자다, cham ưl cha ta, ngủ 
+규칙, kiu trik, quy tắc
+불규칙, bul kiu trik, bất quy tắc
+무조건, mu chô kơn, vô điều kiện
+만족하다, man chôk ha ta, mãn nguyện
+Day 40
+어리다, ơ ri ta, nhỏ tuổi
+젊다, chơm ta, trẻ
+늙다, nưk ta, già 
+다이어트, ta i ơ thư, giảm cân
+유지하다, yu chi ha ta, duy trì
+신나다, sin na ta, hứng thú
+암, am, ung thư
+답답하다, tap tap ha ta, tức(ngực) khó chịu
+몸이 약하다, môm i yak ha ta, cơ thể yếu 
+과로하다, qua rô ha ta, làm việc quá độ
+Day 41
+연략, yơn lak, liên lạc
+변경, biơn kiơng, biến đổi
+가능하다, ka nưng ha ta, có khả năng
+농담, nông tam, nói đùa
+면허증, miên hơ chưng, bằng lái xe
+사정, sa chơng, việc riêng 
+솔직히, sôl chik hi, thành thật
+수첩, su trớp, hấp thụ
+실력, sil liơk, năng lực
+추천하다, tru trơn ga ta, đề cử
+Day 42
+현명하다, hiên miơng ha ta,khôn ngoan
+월급, uơl kưp, lương tháng
+실망하다, sil mang ha ta, thất vọng
+교환하다, kiô hoan ha ta, đổi hàng
+환불하다, hoan bul ha ta, trả hàng (lấy lại tiền)
+어울리다, ơ ul li ta, hợp
+매장, me chang, cửa hàng
+실수, sil su, lỗi
+이미, trước đó
+습관, sưp quan, thói quen
+Day 43
+상품, sang phum, sản phẩm
+마음에 들다, ma ưm ê tưl ta, vừa ý
+주문하다, chu mun ha ta, đặt hàng 
+판매하다, phan me ha ta, bán hàng
+구매하다, ku me ha ta, mua hàng
+할부, hal bu, trả góp
+일시불, il si bul, trả 1 lần
+이상, i sang, lạ
+얼룩, ơl luk, vết bẩn
+불만, bul man, bất mãn
+Day 44
+소비자, sô bi cha, người mua hàng
+서비스, sơ bi sư, dịch vụ
+영수증, yong su chưng, giấy thanh toán
+쇼핑센터,siô phing sên thờ, trung tâm mua sắm
+할인매장, hal in me chang, cửa hàng giảm giá
+배송하다, be sông ha ta, chuyển hàng
+구멍, ku mơng, lỗ thủng
+포인트, phô in thư, điểm tích lũy
+적립하다,chơk lip ha ta, tích điểm
+주의하다, chu i ha ta, chú ý
+Day 45
+정장, chơng chang, trang phục sang trọng
+속옷, sôk ôt, áo trong
+교북, kiô buk, đồng phục 
+질, chil, chất
+배송료, bư sông riô, phí vận chuyển
+사이즈, sa i chư, size, cỡ
+고객, kô kek, khách hàng
+동시에, tông si ê, cùng lúc
+수선하다, su sơn ha ta, sửa chữa
+보장하다, bô chang ha ta, bảo hành
+Day 46
+요리, yô ri, nấu ăn
+한식, han sik, món Hàn
+양식, yang sik, món Âu
+중식, chung sik, món Trung
+간식, kan sik, bữa phụ
+입맛에 맞다, ip mat ê mat ta, vừa miệng
+간을 보다, kan uwl bô ta, thử mặn nhạt
+매력적, me riơk chơk, có mị lực
+섭취하다, sơp truy ha ta, hấp thụ
+대부분, te bu bun, phần lớn
+Day 47 
+고추장, kô tru chang, tương ớt
+고추가루, kô tru ka ru, ớt bột
+된장, tuên chang, đậu nành lên men
+간장, kan chang, xì dầu
+액젓, ek chơt, nước mắm
+김치, kim tri, kimchi
+기름, ki rưm, dầu
+참기름, tram ki rưm, dầu vừng
+식품, sik phum, thực phẩm
+영양, yong yang, dinh dưỡng
+Day 48
+갈비탕, kal bi thang, canh xương bò
+삼계탕, sam kiê thang, gà hầm sâm
+순두부찌개, sun tu bu jji ke, canh đậu non
+찹쌀, trap ssal, gạo nếp
+뼈해장국, ppia he chang kuk, canh xương lợn
+순대국, sun te kuk, canh lòng lợn
+된장찌개, tuên chang jji ke, canh đậu tương
+김치찌개,kim tri jji ke, canh kim chi
+해산물, he san mul, hải sản
+생선조림, seng sơn chô rim, cá rim
+Day 49
+향, hiang, mùi hương
+부드럽다, bu tư rơp ta, mềm
+닥닥하다, tak tak ha ta, cứng
+질기다, chil ki ta, dai
+바삭하다, ba sak ha ta, giòn
+싸먹다, ssa mơk ta, ăn gói, cuộn
+주무르다, chu mu rư ta, bóp
+육수, yuk su, nước hầm
+소스, sô sư, nước sốt
+물엿, mul yơt, mạch nha
+Day 50
+현금, hiơn kưm, tiền mặt
+동전, tông chơn, tiền xu
+지폐, chi phiê, tiền giấy
+수표, su phiêu, ngân phiếu
+잔돈, chan tôn, tiền lẻ
+통장, thông chang, sổ tài khoản
+도장, tô chang, con dấu
+신분증, sin bun chưng, chứng minh thư
+카드, kha tư, thẻ 
+계좌번호, kiê choa bơn hô, số tài khoản
+Day 51
+비밀번호, bi mil bơn hô, số bí mật
+현금자동입출금기(ATM기), cây rút tiền, cây ATM
+입금, ip kưm, nạp tiền
+출금, trul kưm, rút tiền
+계좌이체, kiê choa i trê, chuyển tiền 
+잔액조회, chan ek chô huê, kiểm tra tiền dư
+통장정리, thông chang chơng ri 
+대출하다, te trul ha ta, cho vay
+환전하다, hoan chơn ha ta, đổi tiền
+수수료, su su riô, tiền phí
+Day 52
+화면, hoa miơn, màn hình
+입력, ip riơk, nhập
+올바르다, ôl ba rư ta, phù hợp, đúng
+신청서, sin trơng sơ, phiếu đăng kí
+용돈, yông tôn, tiền tiêu cá nhân
+복습, bôk sưp, ôn tập 
+연습, yơn sưp, luyện tập 
+떨어지다, ttơl ơ chi ta, rơi
+낭비하다, nang bi ha ta, lãng phí
+Day 53
+연구개발, yơn ku ke bal, nghiên cứu phát triển
+결과, kiơl qua, kết quả 
+예를 들어 , yê rưl tưl ơ, cho ví dụ 
+훌륭하다, hul liung ha ta, vĩ đại
+인형, in hiơng, búp bê
+장점, chang chơm, ưu điểm
+단점, tan chơm, nhược điểm
+숨기다, sum ki ta, giấu
+맡기다, mat ki ta, kí gửi
+거짓말, kơ chit mal, lời nói dối
+Day 54
+참다, tram ta, nhịn
+자유롭다, cha yu rôp ta, tự do
+떨리다, ttơl li ta, run
+게으르다, kê ư rư ta, lười
+열심하다, yơl sim ha ta, chăm chỉ 
+급하다, kưp ha ta, gấp
+믿음, mit tưm, niềm tin
+밝다, bak ta, sáng
+어둡다, ơ tup ta, tối
+다양하다, ta yang ha ta, đa dạng
+Day 55
+잃어버리다, i rơ bơ ri ta, rơi mất
+넘어지다, nơm mơ chi ta, ngã
+잘못하다, chal môt ha ta, làm sai
+찢어지다, jjit chơ chi ta, làm rách
+문제가 생가다, mun chê ka seng ki ta, phát sinh vấn đề
+사과하다, sa qua ha ta, tạ lỗi
+잊어버리다, ich chơ bơ ri ta, quên
+헷갈리다, hêt kal li ta, nhầm lẫn
+깜빡하다, kkam ppak ha ta, quên
+갑자기, kap cha ki, đột nhiên
+Day 56
+곰곰이, kôm kôm hi, tỉ mỉ
+과제, qua chê, bài về nhà
+글씨, kưl ssi, chữ viết
+기억하다, ki ơk ha ta, ghi nhớ
+돌려주다, tôl liơ chu ta, trả lại
+바르다, ba rư ta, đúng
+보고하다, bô kô ha ta, báo cáo
+살펴보다, sal phiơ bô ta, xem xét
+어쩔 수 없다, ơ jjơl su ơp ta, k còn cách nào khác 
+적응하다, chơk ưng ha ta, thích ứng 
+Day 57
+품질, phum chil, chất lượng
+표시하다, phiêu si ha ta, biểu thị
+팍악하다, pha ak ha ta, nắm bắt vấn đề
+대답하다, te tap ha ta, trả lời
+개인적, ke in chơk, ích kỉ
+알아보다, a ra bô ta, tìm hiểu
+반복하다, ban bôk ha ta, lặp lại
+반말, ban mal, nói trống không
+변명하다, biơn miơng ha ta, biện minh
+찢다, jjit ta, xé
+Day 58
+아무나, a mu na, bất cứ ai
+아무거나, a mu kơ na, bất cứ cái gì
+아무 데나, a mu tê na,  bất cứ đâu
+아무 때나, a mu tte na, bất cứ khi nào
+만약, man yak, nếu như
+엘리베이터, êl li bê i thư, thang máy 
+해결되다, he kiơl tuê ta, giải quyết
+제공하다, chê kông ha ta, đưa ra
+전망, chơn mang, triển vọng
+파손되다, pha sôn tuê ta, bị phá hủy
+Day 59
+원룸, uơn rum, phòng đơn
+월세, u ơn sê, thuê theo tháng
+전세, chơn sê, thuê theo năm
+빌라, bil la, nhà vila
+부동산, bu tông san, bất động sản
+고시원, k ô si u ơn, nhà thuê cho người ôn thi
+자취, cha truy, thuê trọ
+계약서, kiê yak sơ, hợp đồng
+계약금, kiê yak k ưm, tiền hợp đồng
+하숙집, ha suk chip, nhà trọ bao ăn
+Day 60
+이사하다, i sa ha ta, chuyển nhà
+이삿짐, i sat chim, đồ đạc khi chuyển nhà
+주차장, chu tra chang, bãi đỗ xe
+난방, nan bang, phòng sưởi
+냉방, nưng bang, phòng điều hòa
+관리비, quan li bi, phí quản lí
+보험가입, bô hơm ka ip, đăng kí bảo hiểm
+세제, sê chê, bột giặt
+이삿짐센터, i sat chim sên thơ, trung tâm chuyển đồ
+주택, chu thek, khu dân cư
+Day 61
+보내기, bô ne ki, gửi
+받기, bat ki, nhận
+검색하다, k ơm sek ha ta, tìm kiếm
+홈페이지, hôm phê i chi, trang chủ, tông yong sang
+동영상, tông yong sang, video
+댓글, tet kưl, bình luận 
+전달하다, chơn tal ha ta, chuyển tiếp
+복사하다, bôk sa ha ta , copy
+프린터, phư rin thư, máy in
+인쇄하다, in suê ha ta, in 
+Day 62
+삭제하다, sak chê ha ta, xóa bỏ
+저장하다, chơ chang ha ta, ghi nhớ
+마무리하다, ma mu ri ha ta, kết thúc
+이메일 주소, i mê il chu sô, địa chỉ email
+보고서 작성, bô kô sơ chak sơng, làm báo cáo
+설문조사, sơl mun chô sa, điều tra phỏng vấn 
+참고자료, tram kô cha riô, tư liệu tham khảo
+게시판, kê si phan, bảng thông báo
+사이트, sa i thư, trang web
+글씨 모양, kưl ssi mô yang, phông chữ
+Day 63
+각종, kak chông, chủng loại
+개발하다, ke bal ha ta, phát triển
+교육자, kiô yuk cha, nhà giáo dục
+구체적, ku trê chơk , tính cụ thể
+기도, ki tô, cầu nguyện
+교회, ki ô huê, nhà thờ
+몸무게, môm mu kê, cân nặng
+분야, bun ya, phần
+안내하다, an ne ha ta, thông báo
+적합하다, chơk hap ha ta, thích hợp
+Day 64
+협동성, hiơp tông sơng, tính hợp tác
+도전하다, tô chơn ha ta, thử thách
+실패하다, sil phe ha ta, thất bại
+노력하다, nô riơk ha ta, nỗ lực
+작가, chak ka, tác giả
+장래희망, chang re hi mang, hi vọng trong tương lai
+치료하다, tri riô ha ta, trị liệu
+진로, chin lô, bước tiến trong tương lai
+기부를 하다, ki bu rưl ha ta, quyên góp 
+성공하다, sơng kông ha ta, thành công
+Day 65
+장애인, chang e in, người tàn tật
+양로원, yang rô uơn, viện dưỡng lão
+고아원, kô a uơn, viện trẻ mồ côi
+장애인 복지시설, chang e in bôk chi si sơl, thiết bị phục vụ người tàn tật
+최초, truê trô, đầu tiên
+평생, phiơng seng, bình sinh
+진학하다, chin hak ha ta, học lên cao
+성공 비결, sơng kông bi kiơl, bí quyết thành công
+꿈을 이루다, kkum ưl i ru ta, đạt được giấc mơ
+용기를 가지다, yông ki rưl ka chi ta, có dũng khí
+Day 66
+대통령, te thông riơng, tổng thống
+연예인, yơn yê in, nghệ sĩ
+외우다, uê u ta, học thuộc lòng
+각각, kak kak từng cái, mỗi
+배경, be kiơng, bối cảnh
+사투리, sa thu ri, tiếng địa phương
+실생활, sil seng hoal, cuộc sống thực tế
+유치하다, yu tri ha ta, trẻ con, ấu trĩ
+자연스럽게, cha yơn sư rơp ta, một cách tự nhiên, thoải mái
+작품, chak phum, tác phẩm
+Day 67
+제한하다, chê han ha ta, hạn chế
+배우, be u, diễn viên
+탤런트, thel lơn thư,  người nổi tiếng
+영화 감독, yong hoa kam took, đạo diễn phim
+주인공, chu in kông, nhân vật chính
+장면, chang miơn, cảnh, cảnh phim
+줄거리, chul kơ ri, cốt truyện
+배경음악, be kiơng, nhạc nền
+연기를 잘하다, yơn ki rưl chal ha ta, diễn xuất tốt
+촬영하다, troal yong ha ta, quay phim
+Day 68
+드라마, tư ra ma, phim hàn quốc
+공포 영화, kông phô yong hoa, phim kinh dị
+액션 영화, ek siơn yong hoa, phim hành động
+멜로 영화, mêl lô yong hoa, phim tâm lý, tình cảm 
+코미디 영화, khô mi ti yong hoa, phim hài
+만화영화, man hoa yong hoa, phim hoạt hình
+전쟁영화, chơn cheng yong hoa, phim chiến tranh
+공상과학영화, k ông san koa hak yong hoa, phim khoa học viễn tưởng
+심야영화, sim ya yong hoa, phim chiếu lúc nửa đêm
+시사회, si sa huê, lễ ra mắt phim
+Day 69
+매표소, me phiô sô, quầy vé
+회, huê, tập (phim)
+감동적이다, kam tông chơk i ta, cảm động
+끔찍하다, kưm jjik ha ta, kinh khủng
+폭력적이다, phôk liơk chơk i ta, bạo lực
+인상적이다, in sang chơk i ta, ấn tượng
+기억에 남다, ki ơk ê nam ta, đáng nhớ
+창립, trang lip, sáng lập
+괴물, kuê mul, quái vật
+매진되다, me chin tuê ta, bán hết
+Day 70
+공공장소,kông kông chang sô, nơi công cộng
+공동생활, kông tông seng hoal, sinh hoạt chung
+공연장, kông yơn chang, nơi biểu diễn
+대중교통, te chung kiô thông, giao thông công cộng
+무리하다, mu li ha ta, vô lý
+번호표, bơn hô phiô, phiếu ghi số (để chờ đến lượt)
+비밀, bi mil, bí mật
+수저, su chơ, bộ thìa đũa
+악수, ak su, bắt tay
+양보하다, yang bô ha ta, nhượng bộ
+Day 71
+이어폰,i ơ phôn, tai nghe
+진동, chin tông, chấn động
+창피하다, trang phi ha ta, xấu hổ
+예절, yê chơl, lễ nghi
+예절 바르다, yê chơl ba rư ta, đúng lễ phép
+실례가 되다, sil lê ka tuê ta, thất lễ
+예의에 어긋나다, yê ưi ê ơ kưt na ta, trái lễ nghĩa, vô lễ
+방해하다, bang he ha ta, gây cản trở
+높임말, nôp in mal, từ tôn kính, kính ngữ
+순서대로, sun sơ te rô, theo thứ tự
+Day 72
+줄을 서다, chul ưl sơ ta, xếp hàng
+기본, ki bôn, cơ bản
+인정하다, in chơng ha ta, thừa nhận
+존경하다, chôn kiơng ha ta, tôn kính
+껌, kkơm, kẹo cao su
+씹다, ssip ta, nhai
+집안일을 하다, chip an il rưl ha ta, làm việc nhà
+다리미, ta ri mi, bàn là
+손빨래, sôn ppal le, giặt tay
+빨래를 하다, ppal le rưl ha ta, giặt giũ
+Day 73
+세탁기를 돌리다, sê thak ki rưl tol li ta, mở máy giặt lên
+널다, nơl ta, phơi (quần áo)
+개다, ke ta, gấp (quần áo)
+다리다, ta ri ta, là, ủi (quần áo)
+대청소, te trơng sô, tổng vệ sinh
+빗자루, bit cha ru, cái chổi
+먼지떨이, mơn chi ttơl ki, cây phất trần
+걸레, kơl lê, cái giẻ
+분리 수거, bun li su kơ, phân loại rác thải
+쓸다, quét
+Day 74
+털다, thơl ta, giũ
+치우다, tri u ta, cất, thu dọn
+돌보다, tôl bô ta trông nom
+때, tte, khi, lúc
+미루다, mi ru ta, hoãn lại
+미혼, mi hôn, chưa kết hôn
+뿌리다, ppu ri ta, tưới, rắc
+상상, sang sang, sự tưởng tượng
+성분, sơng bun, thành phần
+소독제, sô tôk chê, chất tẩy
+Day 75
+수입, su ip, nhập khẩu
+수출, su trul, xuất khẩu
+어지럽다, ơ chi rơp ta, chóng mặt
+엉망이다, ơng mang i ta, hoang tàn, lộn xộn
+인식, in sik, nhận thức
+전문화, chơn mun hoa, chuyên môn hóa
+책임, trek im, trách nhiệm
+챙기다, treng ki ta, thu vén
+첫눈, trơt nun, cái nhìn đầu tiên
+당연히, tang yơn hi, một cách đương nhiên
+Day 76
+이루어지다, i ru ơ chi ta, tạo nên, đạt được, có kết quả
+차이가 있다, tra i ka it ta, có sự khác nhau
+반대로, ban te rô, trái nghĩa, ngược lại
+여전히, yơ chơn hi, trước đây
+기쁘다, ki ppư ta, vui vẻ
+행복하다, heng bôk ha ta, hạnh phúc
+기념일, ki niơm il, ngày kỷ niệm
+기분 전환, ki bun chơn hoan, thay đổi không khí
+분위기, bun uy ki, bầu không khí
+분명하다, bun miơng ha ta, rõ ràng
+Day 77
+사망률, sa mang ryul, tỷ lệ tử vong
+심장병, sim chang biơng, bệnh tim
+안내 창구, an ne trang ku, quầy hướng dẫn
+용기, yông ki, dũng khí, dụng cụ
+물가, mul ka, vật giá
+중고품, chung kô phum, đồ cũ
+관리 사무소, koan li sa mu sô, văn phòng ban quản lý
+구청, ku trơng, chính quyền khu vực
+출입국관리사무소, trul ip kuk koan li sa mu sô, phòng quản lý xuất nhập cảnh
+긴급 전화, kin kưp chơn hoa, điện thoại khẩn
+Day 78
+가스 요금, ka sư yô kưm, tiền ga
+수도 요금, su tô y ô kưm, tiền nước
+전기 요금, chơn ki yô kưm, tiền điện
+쓰레기 분리 배출, ssư rê ki bun li be trul, gom rác theo từng loại
+종량제 봉투, chông riang chê bông thu, túi đựng rác 
+재활용 쓰레기, che hoal yông ssư rê ki, rác tái chế
+단수, tan su, cắt nước
+정전, chơng chơn, cắt điện
+신고, sin kô, khai báo
+전화 개통, chơn hoa ke thông, hòa mạng điện thoại
+Day 79
+응급 환자, ưng kưp hoan cha, bệnh nhân cấp cứu
+구조 요청, ku chô yô trơng, yêu cầu cứu trợ
+농수산물, nông su sa mul, sản phẩm nông thủy sản
+대량, te riang, số lượng lớn
+생활 지원, seng hoal chi uơn, hỗ trợ sinh hoạt
+약재, yak che, dược liệu
+연장하다, yơn chang, gia hạn
+유효기간, yu hiô ki kan, thời hạn có hiệu lực
+채용 정보, tre yông chơng bô, thông tin tuyển dụng
+이력서, i riơk sơ, lý lịch
+Day 80
+졸업 증명서, chôl ơp chưng miơng sơ,  bằng tốt nghiệp
+성적 증명서, sơng chơk chưng miơng sơ, bảng điểm
+경력 증명서, kiêng riơk chưng miơng sơ, giấy chứng nhận kinh nghiệm
+자기소개서, cha ki sô ke sơ, bản giới thiệu bản thân
+사무직, sa mu chik, công việc hành chính
+전문직, chơn mun chik, công việc chuyên môn
+기능직, ki nưng chik, công việc kỹ thuật
+영업직, yơng ơp chik, công việc kinh doanh
+신입 사원, sin ip sa uơn, nhân viên mới
+경력 사원, kiơng sa uơn, nhân viên lâu năm
+Day 81
+정규 사원, chơng kiu sa uơn, nhân viên chính thức
+인턴사원, in thơn sa uơn, nhân viên thử việc
+인사 담당자, in sa tam tang cha, người phụ trách nhân sự
+사원 모집, sa uơn mô chip, tuyển nhân viên
+공공 기관, kông kông ki koan, cơ quan công cộng
+필기시험을 보다, phil ki si hơm ưl bô ta, thi viết
+면접시험을 보다, miơn chơp si hơm ưl bô ta, thi vấn đáp
+사본, sa bôn, bản sao photo
+진급하다, chin kưp ha ta thăng cấp, lên chức
+창업, trang ơp, sáng nghiệp
+Day 82
+홍보하다, hông bô ha ta, quảng bá
+광고하다, koang koo ha ta, quảng cáo 
+가스레인지, ka sư lê in chi, bếp ga
+교체하다, kiô trê ha ta, thay
+기능, ki nưng, kỹ năng
+망가지다, mang ka chin ta, bị hỏng
+멈추다, mơm tru ta, dừng lại
+메모리 카드, mê mô ri kha tư, thẻ nhớ
+설정하다, sơl chơng ha ta, cài đặt
+소비자 상담실, sô bi cha sang tam sil, phòng tư vấn khách hàng
+Day 83
+싱크대,  sing khư te, chậu rửa chén
+(물을) 쏟다, (mul) sôt ta, đổ (nước)
+안심하다, an sim ha ta, an tâm
+음량, ưm riang, âm lượng
+장판, trang phan, tấm trải sàn
+충분하다, trung bun ha ta, đủ
+충전기, trung chơn ki, sạc pin
+흘리다, hưl li ta, chảy ra,đổ
+전원, chơn uơn, nguồn điện
+버튼, bơ thưn, phím
+Day 84
+스위치, sư uy tri, công tắc
+부품, bu phum, phụ tùng
+배터리, be thơ ri, pin
+콘센트, khôn sên thư, ổ cắm điện
+플러고, phưl lơ kô, phích cắm điện
+리모컨, li mô khơn, cái điều khiển 
+휴대전화가 꺼지다, hiu te chơn hoa ka kkơ chi ta, điện thoại bị tắt
+불이 안 켜지다, bul i an khiơ chi ta, lửa không bật sáng
+버튼이 안 눌러지다, bơ thưn i an nul lơ chi ta, nút không ấn được
+창문이 깨지다, trang mun i kke chi ta, cửa sổ bị vỡ
+Day 85
+전기가 끊기다, chơn ki ka kkưn ki ta, bị ngắt điện
+문이 안 잠기다, mun i an cham ki ta, cửa không khoá được
+부품을 바꾸다, bu phum ưl ba kku ta, thay phụ tùng
+화면이 흔들리다, hoa miơn i hưn tưl li ta, màn hình bị rung
+못이 빠지다, môt si ppa chi ta, rơi mất đinh
+배터리가 다 되다, be thơ ri ka ta tuê ta, hết pin
+수리하다, su ri ha ta, sửa chữa
+고치다, kô tri ta, sửa chữa
+제품 설명서, chê phum sơl miơng sơ, hướng dẫn sử dụng
+품질 보증서, phum chil bô chưng sơ, phiếu bảo đảm chất lượng
+Day 86
+견과류, kiơn koa riu, các loại trái, hạt phơi khô
+곡식, kôk sik, ngũ cốc
+오곡밥, ô kôk bap, cơm ngũ cốc
+세뱃돈, sê bet tôn, tiền lì xì
+세배를 하다, sê be rưl ha ta, lạy chào ngày tết
+차례를 지내다, tra rê rưl chi ne ta, lễ cúng tổ ti
+보름달, bô rưm tal, trăng rằm
+설날, sơl nal, tết dương lịch
+주석, chu sơk, trung thu
+단오제, tan ô chê, lễ tết Đoan Ngọ
+Day87
+찜질방, jjim chil bang,  phòng tắm hơi
+씨름, ssi rưm, đấu vật
+줄다리기, chul ta ri ki, chơi kéo co
+그네뛰기, kư nê ttuy ki, chơi đánh đu
+도전하다, tô chơn ha ta, thử thách
+돌아보다, tôl a bô ta, nhìn lại
+마라톤, ma ra thôn, chạy ma-ra-tông
+물음, mu rưm,  câu hỏi
+방안, bang an, phương án
+볼링, bôl ling, bóng bowling 
+Day 88
+장비, chang bi, trang bị
+체험, trê hơm, trải nghiệm
+사회 활동, sa huê hoal tông, hoạt động xã hội
+관람, koan lam, xem
+활용하다, hoal yông, áp dụng
+자기 계발, cha ki kiê bal, phát triển bản thân
+체력을 키우다, trê riơk ưl khi u ta, nuôi dưỡng thể lực
+능률, nưng rưl, năng suất
+또박또박, ttô pak tô pak, rành rọt
+소용없다, sô yông ơp ta, không có tác dụng
+Day 89 
+입사, ip sa, vào công ty
+(회사를) 옮기다, (huê sa rưl) um ki ta, chuyển công ty
+(회사를) 그만두다, (huê sa rưl) kư man tu ta, thôi việc(ở công ty)
+정년퇴직, chơng niơn thuê chik, về hưu theo tuổi
+사직서, sa chik sơ, đơn thôi việc
+퇴직금, thuê chik kưm, trợ cấp thôi việc
+출근, trul kưn, đi làm
+퇴근, thuê kưn, tan sở
+야근, ya kưn, làm đêm
+근무시간, kưn mu si kan, giờ làm việc
+Day 90
+회장, huê chang, chủ tịch
+대기업, te chang, doanh nghiệp lớn
+중소기업, chung sô ki ơp, doanh nghiệp vừa và nhỏ
+무역 회사, mu yơk huê sa, công ty thương mại
+건설 회사, kơn sơl huê sa, công ty xây dựng
+자동차 회사, cha tông tra huê sa, công ty xe hơi
+증권회사, chưng quơn huê sa, công ty chứng khoán
+보험회사, bô hơm huê sa, công ty bảo hiểm
+IT 회사, ai ti huê sa, công ty IT (công nghệ thông tin)
+가전제품 회사, ka chơn chê phum huê sa, công ty điện gia dụng
+Day 91
+절다, chơl ta, muối (muối dưa)
+태우다, the u ta, đốt cháy
+형식, hiơng sik, hình thức
+횟수, huêt su, số vòng
+자원 절약, cha uơn chơl yak, tiết kiệm tài nguyên
+시간 절약, si kan chơl yak, tiết kiệm thời gian
+소비 절약, sô bi chơl yak, tiết kiệm tiêu dùng
+절약 정신, chơl yak chơng sin, tinh thần tiết kiệm
+돈을 펑펑 쓰다, tôn ưl phiơng phiơng ssư ta, tiêu tiền bừa bãi
+돈을 물 쓰듯 하다, tôn ưl mul ssư tưt ha ta, tiêu tiền như nước
+Day 92
+의료비, ưi riô bi, chi phí y tế
+무이자 할부, mu i cha hal bu, trả góp không lãi suất
+결제하다, kiơl chê ha ta, thanh toán
+한도 초과, han tô trô koa, quá định mức
+감소하다, kam sô ha ta, giảm
+증가하다, chưng ka ha ta, tăng
+곤란하다, kôn lan ha ta, khó khăn
+밝히다, bal khi ta, làm rõ
+방송국, bang sông kuk, đài truyền hình
+세대 차이, sê te tra i, khác nhau giữa các thế hệ
+Day 93
+강화하다, kang hoa ha ta, tăng cường
+동굴, tông kul, hang động
+고개를 숙이다, kô ke rưl suk i ta, cúi đầu
+구명조끼, ku miơng chô kki, phao cứu hộ
+구조 장비, ku chô chang bi, thiết bị cứu hộ
+대책을 세우다, te trek ưl sê u ta, lập ra đối sách
+도난 사고, tô nan sa kô, sự cố mất cắp
+보호구역, bô hô ku yơk, khu vực bảo vệ
+분석하다, bun sơk ha ta, phân tích
+붕대로 감다, bông te rô kam ta, băng bó bằng bông gạc
+Day 94
+쓰러지다, ssư rơ chi ta, ngất xỉu
+음주 운전, ưm chu un chơn, lái xe khi say rượu
+인터넷 보안, in thơ nêt bô an, bảo mật internet
+조난 사고, chô nan sa kô, tai nạn thảm họa
+통계, thông kiê, thống kê
+평평하다, phiơng phiơng ha ta, bằng phẳng
+구조대원, ku chô te uơn, nhân viên cứu hộ
+신고하다, sin kô ha ta, khai báo
+구조하다, ku chô ha ta, cứu hộ
+사건이 발생하다, sa kơn i bal seng ha ta, sự cố phát sinh
+Day 95
+사건을 해결하다, sa kơn i he kiơl ha ta, giải quyết sự cố
+교통사고, kiô thông sa kô, tai nạn giao thông
+안전사고, an chơn sa kô, tai nạn do bất cẩn
+인명 사고, in miơng sa kô, tai nạn chết người
+대형 사고, te hiơng sa kô, tai nạn lớn
+과속 운전, koa sôk un chơn, lái xe quá tốc độ
+화재가 발생하다, hoa che ka bal seng ha ta, phát sinh hỏa hạn
+사고를 당하다, sa kô rưl tang ha ta, bị tai nạn
+실종되다, sil chông tuê ta, mất tích
+부딪히다, bu tit chi ta, va chạm
+Day 96
+주요 뉴스, chu yô niu sư, tin chính
+피해자, phi he cha, nạn nhân
+피의자, phi i cha, người bị tình nghi
+목격자, môk kiơk cha, người chứng kiến
+사망자, sa mang cha, người chết
+부상자, bu sang cha, người bị thương
+실종자, sil chông cha, người mất tích
+사건/사고 현장, sa kơn/ sa kô hiơn chang, hiện trường tai nạn
+조사하다, chô sa ha ta, điều tra
+미끄러지다, mi kkư rơ chi ta, bị trơn trợt
+Day 97
+강제성, kang chê sơng, tính cưỡng chế
+거부감, kơ bu kam, có tính phản cảm
+극복하다, kưk bôk ha ta, khắc phục
+마련하다, ma riơn ha ta, chuẩn bị
+보충하다, bô trung ha ta, bổ sung
+부작용, bu chak yông, tác dụng phụ
+비롯하다, bi rut ha ta, bao gồm
+시행되다, si heng tuê ta, thi hành
+실시하다, sil si ha ta, thực thi
+적응력, chơk ưng riơk, sức thích ứng
+Day 98
+전부, toàn bộ
+정책, chính sách
+창조적, tính sáng tạo
+총액, tổng số tiền
+해석하다, giải thích
+형편, tình trang, gia cảnh
+국립학교, trường công lập
+공립학교, trường công lập
+사립학교, trường tư thục
+의무교육, giáo dục bắt buộc
+Day 99
+대학수학능력시험
+thi đại học
+정시, thời gian quy định
+수시, bất kỳ lúc nào
+특수교육, đào tạo đặc biệt
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

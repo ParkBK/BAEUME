@@ -148,7 +148,7 @@ Day 14
 숲, sup, rừng
 토끼, thô kki, thỏ
 가위, ka uy, kéo 
-직업, chik ơp, nghề nghiệp
+침대, trim te, giường
 회사원, huê sa uôn, nhân viên văn phòng
 선생님, sơn seng nim, cô giáo
 기자, ki cha, kí giả
@@ -166,7 +166,7 @@ Day 15
 연세, yơl sê, tuổi
 동생, tông seng, em
 Day 16
-숟가락, sut ka rak, thìa
+장문, chang mun, cửa cổ
 볼펜, bôl phên, bút chì
 지우개, chi u ke, cục tẩy
 연필, yơn phil, bút chì
@@ -228,7 +228,7 @@ Day 21
 재미없다, che mi ơp ta, không thú vị
 좋아하다, chô a ha ta, thích
 싶다, sip ta, muốn
-공부하다, kông bu ha ta, học
+배우다, be u ta, học
 가르치다, ka rư tri ta, dạy
 Day 22
 달다, tal ta, ngọt
@@ -696,7 +696,7 @@ Day 63
 적합하다, chơk hap ha ta, thích hợp
 Day 64
 협동성, hiơp tông sơng, tính hợp tác
-도전하다, tô chơn ha ta, thử thách
+손톱, sôn thôp, móng tay
 실패하다, sil phe ha ta, thất bại
 노력하다, nô riơk ha ta, nỗ lực
 작가, chak ka, tác giả
@@ -1069,22 +1069,157 @@ Day 97
 실시하다, sil si ha ta, thực thi
 적응력, chơk ưng riơk, sức thích ứng
 Day 98
-전부, toàn bộ
-정책, chính sách
-창조적, tính sáng tạo
-총액, tổng số tiền
-해석하다, giải thích
-형편, tình trang, gia cảnh
-국립학교, trường công lập
-공립학교, trường công lập
-사립학교, trường tư thục
-의무교육, giáo dục bắt buộc
+전부, chơn bu, toàn bộ
+정책, chơng trek, chính sách
+창조적, trang chô chơk, tính sáng tạo
+총액, trông ek, tổng số tiền
+해석하다, he sơk ha ta, giải thích
+형편, hiơng phiơng, tình trạng, gia cảnh
+국립학교, kuk lip hak kiô, trường công lập
+공립학교, kông lip hak kiô, trường công lập
+사립학교, sa lip hak kiô, trường tư thục
+의무교육, ưi mu kiô yuk, giáo dục bắt buộc
 Day 99
-대학수학능력시험
-thi đại học
-정시, thời gian quy định
-수시, bất kỳ lúc nào
-특수교육, đào tạo đặc biệt
+대학수학능력시험, te hak su hak nưng riơk si hơm, thi đại học
+정시, chơng si, thời gian quy định
+수시, su si, bất kỳ lúc nào
+특수교육, thưk su kiô yuk, đào tạo đặc biệt
+해외 유학, he uê yu hak, du học nước ngoài
+수험생, su hơm seng, thí sinh
+학원, hak uơn, học viện
+과외, koa uê ha ta, học thêm
+내신 성적, ne sin sơng chơk, thành tích riêng
+경쟁이 치열하다, kiơng cheng i tri yơl ha ta, cạnh tranh gay gắt
+Day 100
+강조, kang chô, sự nhấn mạnh
+기상청, ki sang trơng, cục khí tượng
+돗자리, tôt cha ri, tấm thảm trải
+무더위, mu tơ uy, nóng hầm hập
+상승, sang sưng, sự tăng lên
+생물, seng mul, sinh vật
+생태계, seng the kiê, hệ sinh thái
+열대우림, yơl te u lim, mưa rừng nhiệt đới
+영하권, yơng ha kuơn, khu vực nhiệt độ âm
+이익, i ik, lợi ích
+Day 101
+일기, il ki, nhật ký
+재활용 수거함, che hoal yông su kơ ham, thùng thu gom đồ tái chế
+홍수, hông su, lũ lụt
+지구온난화, chi ku ôn nan hoa, sự nóng lên của trái đất
+황사, hoang sa, bão cát
+대기오염, te ki ô yơm, ô nhiễm không khí
+기후변화, ki hu biơn hoa, sự thay đổi khí hậu
+산성비, san sơng bi, mưa a-xít
+수질오염, su chil ô yơm, ô nhiễm nước
+이상 기온, i sang ki hô, khí hậu khác thường
+Day 102
+이슬, i sưl, sương
+토양오염, thô yang ô yơm, ô nhiễm đất
+오염 물질, ô y ơm mul chil, chất ô nhiễm
+자동차 매연, cha tông tra me yơm, khí thải xe
+공장 폐수, kông chang phiê su, nước thải nhà máy
+산업폐기물, san ơp phiê ki mul, chất thải công nghiệp
+생활하수, seng hoal ha su, nước thải sinh hoạt
+일회용품, il huê yông phum, sản phẩm dùng 1 lần
+재활용품, che hoal yông phum, đồ tái sử dụng
+에너지 절약, ê nơ chi chơl yak, tiết kiệm năng lượng
+Day 103
+친환경 제품, trin hoan kiơng chê phum, sản phẩm thân thiện với môi trường
+게다가, kê ta ka, thêm vào đó
+고백, kô bek, tỏ tình
+벌을 받다, bơl ưl bat ta, bị trừng phạt
+복을 받다, bôk ưl bat ta, hưởng phúc
+생각이 떠오르다, seng kak i ttơ ô rư ta, nẩy ra ý nghĩ
+소문, sô mun, lời đồn đại
+숨기다, sum ki ta, giấu giếm
+악기, ak ki, nhạc cụ
+운명, un miơng, vận mệnh
+Day 104
+더하기, tơ ha ki, cộng
+빼기, ppe ki, trừ
+곱하기, kôp ha ki, nhân
+나누기, na nu ki, chia
+제곱, chê k ôp, bình phương
+경제협력, kiơng chê hiơp riơk, sự hợp tác kinh tế
+뷔페식, buy phê sik, tiệc buffe
+이민을 가다, i min ưl ka ta, đi di dân
+자리잡다, cha ri chap ta, chiếm giữ
+주관하다, chu koan ha ta, chủ quan
+Day 105
+고령화, k ô riơng hoa, sự lão hóa dân số
+삼국시대, sam kuk si te, thời kỳ tam quốc 
+유래되다, yu re tuê ta, được lưu truyền
+저렴하다, chơ riơm ha ta, hợp lý (giá cả)
+출산율, trul san yul, tỉ lệ sinh sản
+토속상품, thô sôk sang phum, sản phẩm truyền thống
+통합 관람제, thông hap koan lam chê, khu tham quan tổng hợp
+풍물, phung mul, cảnh vật
+한글 창제, han kưl trang chê, sự sáng chế chữ Hangul
+상징, sang chinh, tượng trưng
+Day 106
+수도, su tô, thủ đô
+한옥, Han ôk, nhà Hàn Quốc kiểu truyền thống
+고궁, kô kung, cố cung
+중심지, chung sim chi, khu trung tâm
+수도권, su tô kuơn, khu vực thủ đô
+건국되다, kơn kuk tuê ta, kiến quốc
+관광객을 유치하다, koan koang kek ưl yu tri ha ta, thu hút khách du lịch
+밀집되다, mil chip tuê ta, tập trung dày đặc
+면적, miên chơk, diện tích
+지형, chi hiơng, địa hình
+Day 107
+혼잡하다, hôn chap ha ta, hỗn tạp
+공존하다, kông chôn ha ta, cùng tồn tại
+도약하다, tô yak ha ta, vượt lên
+어우러지다, ơ u rơ chi ta, hòa nhập vào
+부각시키다, bu kak si khi ta, làm nổi bật
+대책을 마련하다, te trek ưl ma liơn ha ta, đề ra đối sách
+연계되다, yơn kiê tuê ta, được kết nối
+연관(을) 짓다, yơn koan ưl chit ta, tạo mối liên quan
+배출하다, be trul ha ta, thải ra
+예방, yê bang, phòng ngừa
+Day 108
+약, yak, thuốc
+안약, an yak, thuốc nhỏ mắt
+보약, bô yak, thuốc bổ
+멀미약, mơl mi yak, thuốc chống say tàu xe
+한약, han yak, thuốc đông y 
+야식, ya sik, việc ăn đêm
+채식, tre sik, việc ăn chay
+당뇨병, tang niô biơng, bệnh tiểu đường
+속이 더부룩하다, sôk i tơ bu ruk ha ta, đầy hơi
+속이 쓰리다, sôk i ss ư ri  sôi trong ruột
+Day 109
+독자 투고, tôk cha thu kô, thu thập ý kiến độc giả
+여론 조사, yơ lôn chô sa, sự điều tra dư luận
+정보화 사회, chơng bô hoa sa huê, xã hội thông tin hóa
+비평, bi phiơng, sự phê bình
+편집, phiơn chip, việc biên tập
+본문, bôn mun, thân bài
+감염성 질병, kam yơn sơng, bệnh truyền nhiễm
+고매하다, kô me ha ta, cao quý
+무방하다, mu bang ha ta, không có vấn đề gì
+신중하다, sin chung ha ta, thận trọng
+Day 110
+요건, yô kơn, điều kiện
+용량, yông riang, dung lượng
+저출산, chơ trul san, tỉ lệ sinh thấp
+비판, bi phan, sự phê phán
+비유, bi yul, lối ẩn dụ
+눈길을 끌다, nun kil ưl kkưl ta, gây chú ý
+노출시키다, nô trul si khi ta, làm cho phơi bày ra
+면역력, miơn yơk riơk, sức miễn dịch
+부추기다, bu tru ki ta, kích động
+언급하다, ơn kưp ha ta, đề cập đến
+
+
+
+
+
+
+
+
+
 
 
 

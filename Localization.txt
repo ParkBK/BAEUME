@@ -1,0 +1,1948 @@
+﻿KEY, Korea, Việt Nam, Jap
+언어,한국어, Tiếng Việt, Jap
+Ui_교육, 교육, Giáo dục
+Ui_단어장, 단어장, Bảng từ mới 
+Ui_일반 회화, 일반 회화,  Hội thoại cơ bản
+Ui_연습, 연습, Luyện tập
+Ui_자음, 자음, Phụ âm
+Ui_쌍자음, 쌍 자음, Phụ âm đôi
+Ui_모음, 모음,  Nguyên âm
+Ui_이중 모음, 이중 모음, Nguyên âm ghép
+Giyeok_, 기역,"기역 (Gi yok) \nphát âm : g, k " 
+Giyeok_1, 가위,"가위 kéo \nphát âm : ka uy "
+Giyeok_2, 개구리,"개구리 con ếch \nphát âm : ke ku ri "
+Giyeok_3, 개미,"개미 con kiến \nphát âm : ke mi "
+Giyeok_4, 거미,"거미 con nhện \nphát âm : kơ mi "
+Giyeok_5, 계단,"계단 bậc thang \nphát âm : kiê tan "
+Giyeok_6, 계란,"계란 trứng gà \nphát âm : kiê ran "
+Giyeok_7, 계절,"계절 mùa \nphát âm : kiê chơl "
+Giyeok_8, 곰,"곰 con gấu \nphát âm : kôm "
+Giyeok_9, 공,"공 bóng \nphát âm : kông "
+Giyeok_10, 과일,"과일 hoa quả  \nphát âm : koa il "
+Giyeok_11, 교육,"교육 giáo dục \nphát âm : kiô yuk "
+Giyeok_12, 구름,"구름 mây \nphát âm : ku rưm "
+Giyeok_13, 귀걸이,"귀걸이 khuyên tai \nphát âm : kuy kơl ri "
+Giyeok_14, 귀신,"귀신 quỷ \nphát âm : kuy sin "
+Giyeok_15, 길,"길 con đường \nphát âm : kil "
+Nieun_, 니은,"니은 (Ni uin) \nphát âm : n "
+Nieun_1,나무,"나무 cây \n phát âm : na mu "
+Nieun_2, 나비,"나비 con bướm \n phát âm : na bi "
+Nieun_3, 눈,"눈 mắt \n phát âm : nun "
+Nieun_4, 낮,"낮 ban ngày \n phát âm : nat "
+Nieun_5,내일,”내일 ngày mai \n phát âm : ne il "
+Nieun_6, 너구리,"너구리 con chồn \n phát âm : nơ ku ri "
+Nieun_7,네모,”네모 hình vuông \n phát âm : nê mô "
+Nieun_8, 넷,"넷 4 \n phát âm : nêt "
+Nieun_9,노란색,”노란색 màu vàng \n phát âm : nô ran sek "
+Nieun_10, 노래,"노래 bài hát \n phát âm : nô re "
+Nieun_11, 뇌,"뇌 não \n phát âm : nuê "
+Nieun_12, 누르다,"누르다 nhấn, ấn \n phát âm : nu rư ta "
+Nieun_13,눈물,”눈물 nước mắt \n phát âm : nun mul "
+Nieun_14, 뉴스,"뉴스 thời sự \n phát âm : niu sư "
+Nieun_15, 느리다,"느리다 chậm chạp \n phát âm : nư ri ta "
+Digeut_, 디귿,"디귿 (Ti guit) \nphát âm : t "
+Digeut_1, 다리,"다리 cây cầu, chân \n phát âm : ta ri "
+Digeut_2,달,”달 mặt trăng \n phát âm : tal "
+Digeut_3, 닭,"닭 con gà \n phát âm : tak "
+Digeut_4,대나무,”대나무 cây tre \n phát âm : te na mu "
+Digeut_5, 더하기,"더하기 cộng \n phát âm : tơ ha ki "
+Digeut_6,덥다,”덥다 nóng \n phát âm : tơp ta "
+Digeut_7,덫,”덫 bẫy \n phát âm : tơt "
+Digeut_8, 도시,"도시 thành phố \n phát âm : tô si "
+Digeut_9, 도움,"도움 Giúp \n phát âm : tô um "
+Digeut_10,돌,”돌 đá \n phát âm : tôl "
+Digeut_11,동물,”동물 động vật \n phát âm : tông mul "
+Digeut_12, 두부,"두부 đậu \n phát âm : tu bu "
+Digeut_13, 드럼,"드럼 trống \n phát âm : tư rơm "
+Digeut_14,등,”등 hạng, vân vân \n phát âm : tưng "
+Digeut_15,돼지,”돼지 con heo \n phát âm : toe chi "
+Rieul_, 리을,"리을 (Ri uil) \nphát âm : r, l "
+Rieul_1, 라디오,"라디오 radio \n phát âm : ra ti ô "
+Rieul_2,라마,”라마  \n phát âm : la ma "
+Rieul_3,라면,”라면 mì gói \n phát âm : la miơn "
+Rieul_4,라이터,”라이터 bật lửa \n phát âm : la i thơ "
+Rieul_5,라임,”라임 chanh xanh \n phát âm : la im "
+Rieul_6,러시아,”러시아 chanh xanh \n phát âm : la im "
+Rieul_7,런던,”런던 London \n phát âm : lơn tơn "
+Rieul_8, 레몬,"레몬 quả chanh \n phát âm : rê môn "
+Rieul_9,로봇,”로봇 rô bốt \n phát âm : rô bôt "
+Rieul_10,로션,”로션 kem dưỡng Lotion \n phát âm : lô siơn "
+Rieul_11,롤러코스터,”롤러코스터 tàu lượn \n phát âm : lôl lơ khô sư thơ "
+Rieul_12,리본,"리본 Ruy băng \n phát âm : li bon "
+Rieul_13,리어카,”리어카 xe kéo tay \n phát âm : li ơ kha "
+Rieul_14,립스틱,”립스틱 son \n phát âm : lip sư thik "
+Rieul_15,링거,”링거 dịch truyền \n phát âm : ling kơ "
+Mieum_, 미음,"미음 (Mi uim) \nphát âm : m "
+Mieum_1,만,”만 mười nghìn \n phát âm : man "
+Mieum_2,말,”말 con ngựa, lời nói \n phát âm : mal "
+Mieum_3,맛,”맛 vị \n phát âm : mat "
+Mieum_4,매일,”매일 mỗi ngày \n phát âm : me il "
+Mieum_5,모자,”모자 mũ \n phát âm : mô cha "
+Mieum_6,목,”목 cổ \n phát âm : môk "
+Mieum_7,몸,”몸 cơ thể \n phát âm : môm "
+Mieum_8,묘지,”묘지 miếu \n phát âm : miô chi "
+Mieum_9, 문,"문 cửa \n phát âm : mun "
+Mieum_10,문화,”문화 văn hóa \n phát âm : mun hoa "
+Mieum_11,묻다,”묻다 hỏi \n phát âm : mut ta "
+Mieum_12,물,”물 nước \n phát âm : mul "
+Mieum_13,미인,”미인 người đẹp \n phát âm : mi in "
+Mieum_14,믿다,”믿다 Tin \n phát âm : mit ta "
+Mieum_15,밑,”밑 bên dưới \n phát âm : mit "
+Bieup_, 비읍,"비읍 (Bi uip) \nphát âm : p, b "
+Bieup_1, 바나나,"바나나 chuối \n phát âm : ba 
+Bieup_2, 밖,"밖 bên ngoài \n phát âm : bak "
+Bieup_3,반,”반 lớp, một nửa \n phát âm : ban "
+Bieup_4,밤,”밤 hạt dẻ \n phát âm : bam "
+Bieup_5,방,”방 phòng \n phát âm : bang "
+Bieup_6,뱀,”뱀 con rắn \n phát âm : bem "
+Bieup_7,버스,”버스 xe bus \n phát âm : bơ sư "
+Bieup_8, 버터,"버터 bơ \n phát âm : bơ thơ "
+Bieup_9, 범죄,"범죄 phạm tội \n phát âm : bơm chuê "
+Bieup_10,변기,”변기 bồn cầu \n phát âm : biơn ki "
+Bieup_11,봉투,”봉투 túi \n phát âm : bông thu "
+Bieup_12, 부채,"부채 quạt giấy \n phát âm : bu tre "
+Bieup_13, 부처,"부처 phật \n phát âm : bu trơ "
+Bieup_14,불,”불 lửa \n phát âm : bul "
+Bieup_15,비누,”비누 xà phòng \n phát âm : bi nu "
+Shiot_, 시옷,"시옷 (Si oot) \nphát âm : s "
+Shiot_1, 사과,"사과 quả táo \n phát âm : sa qua "
+Shiot_2,사자,”사자 sư tử \n phát âm : sa cha  "
+Shiot_3,산,”산 núi \n phát âm : san  "
+Shiot_4,살,”살 tuổi \n phát âm : sal "
+Shiot_5,삼,”삼 số ba \n phát âm : sam "
+Shiot_6,서점,”서점 hiệu sách \n phát âm : sơ chơm "
+Shiot_7,성,”성 họ \n phát âm : sơng "
+Shiot_8,세모,”세모 hình tam giác \n phát âm : sê mô "
+Shiot_9,소,”소 con bò \n phát âm : sô "
+Shiot_10,소방대,”소방대 đội cứu hỏa \n phát âm : sô bang te "
+Shiot_11,손,”손 tay \n phát âm : sôn  "
+Shiot_12,손녀,”손녀 cháu gái \n phát âm : sôn niơ "
+Shiot_13,쇄골,”쇄골 xương quai xanh \n phát âm : soe kôl "
+Shiot_14,쇠사슬,”쇠사슬 xiềng xích \n phát âm : suê sa sưl "
+Shiot_15,수업,”수업 tiết học \n phát âm : su ơp "
+Ieung_, 이응,"이응 (I uing) \nphát âm : ng "
+Ieung_1, 아기,"아기 em bé \n phát âm : a ki "
+Ieung_2, 아빠,"아빠 bố \n phát âm : a ppa "
+Ieung_3, 약,"약 thuốc \n phát âm : yak "
+Ieung_4,양념,”양념 gia vị \n phát âm : yang niơm "
+Ieung_5,어머니,”어머니 mẹ \n phát âm : ơ mơ ni "
+Ieung_6, 열쇠,"열쇠 chìa khóa \n phát âm : yơl suê "
+Ieung_7, 오후,"오후 buổi chiều \n phát âm :ô hu "
+Ieung_8,요리사,”요리사 đầu bếp \n phát âm : yô ri sa "
+Ieung_9,우유,”우유 sữa \n phát âm : u yu "
+Ieung_10,여자,”여자 con gái \n phát âm : yơ cha "
+Ieung_11,원,”원 won \n phát âm : uơn "
+Ieung_12,월요일,”월요일 thứ hai \n phát âm : uơl yô il "
+Ieung_13,유치원,”유치원 nhà trẻ \n phát âm : yu tri uơl "
+Ieung_14,의자,”의자 ghế \n phát âm : ưi cha "
+Ieung_15, 입,"입 miệng \n phát âm : ip "
+ㅈ, 지읒,"지읒 (Chi uit) \nphát âm : ch "
+ㅊ, 치읒,"치읒 (Ch'i uit) \nphát âm : ch' "
+ㅋ, 키읔,"키읔 (Khi uit) \nphát âm : kh "
+ㅌ, 티읕,"티읕 (Thi uit) \nphát âm : th "
+ㅍ, 피읖,"피읖 (Phi uip) \nphát âm : ph "
+ㅎ, 히읗,"히읗 (Hi uit) \nphát âm : h "
+ㄲ, 쌍기역,"쌍기역 (ssang gi yok) \nphát âm : kk" 
+ㄸ, 쌍디귿,"쌍디귿 (ssang ti guit) \nphát âm : tt "
+ㅃ, 쌍비읍,"쌍비읍 (ssang bi uip) \nphát âm : pp "
+ㅆ, 쌍시옷,"쌍시옷 (ssang si oot) \nphát âm : ss "
+ㅉ, 쌍기역,"쌍지읒 (ssang chi uit) \nphát âm : jj "
+ㅏ, "아 \n phát âm : a "
+ㅑ, "야 \n phát âm : ya/ ia "
+ㅓ, "어 \n phát âm : ơ "
+ㅕ, "여 \n phát âm : yơ/ iơ "
+ㅗ, "오 \n phát âm : ô "
+ㅛ, "요 \n phát âm : yô/ iô "
+ㅜ, "우 \n phát âm : u " 
+ㅠ, "유 \n phát âm : yu/ iu "
+ㅡ, "으 \n phát âm : ư "
+ㅣ, "이 \n phát âm : i "
+ㅐ, "애 \n phát âm : e "
+ㅒ, "얘 \n phát âm : ye/ ie "
+ㅔ, "에 \n phát âm : ê "
+ㅖ, "예 \n phát âm : yê/ iê "
+ㅘ, "와 \n phát âm : oa "
+ㅙ, "왜 \n phát âm : oe "
+ㅚ, "외 \n phát âm : uê "
+ㅝ, "워 \n phát âm : uơ "
+ㅞ, "웨 \n phát âm : uê "
+ㅟ, "위 \n phát âm : uy "
+ㅢ, "의 \n phát âm : ưi "
+이마, 이마,"이마 trán \n phát âm : i ma "
+사자, 사자,"사자 sư tử \n phát âm : sa cha "
+자전거, 자전거,"자전거 xe đạp \n phát âm : cha chơn kơ "
+자동차, 자동차,"자동차 xe ô tô \n phát âm : cha tông tra "
+카드, 카드,"카드 thẻ \n phát âm : kha tư "
+타조, 타조,"타조 đà điểu \n phát âm : tha chô "
+파, 파,"파 hành \n phát âm : pha "
+하마, 하마,"하마 hà mã \n phát âm : ha ma "
+까치, 까치,"까치 chim kkachi \n phát âm : kka tri "
+따다, 따다,"따다 hái \n phát âm : tta ta "
+짜장면, 짜장면,"짜장면 mì đen \n phát âm : cha chang miơn "
+야외, 야외,"야외 ngoài trời \n phát âm : ya uê "
+러시아, 러시아,"러시아 nước Nga \n phát âm : rơ si a "
+어머니, 어머니,"어머니 mẹ \n phát âm : ơ mơ ni "
+버섯, 버섯,"버섯 nấm \n phát âm : bơ sơt "
+서점, 서점,"서점 hiệu sachs \n phát âm : sơ chơm "
+어묵, 어묵,"어묵 báng cá \n phát âm : ơ muk "
+저고리, 저고리,"저고리 áo hanbok \n phát âm : chơ ku ri "
+커피, 커피,"커피 cafe \n phát âm : khơ phi "
+퍼즐, 퍼즐,"퍼즐 câu đố \n phát âm : phơ chưl "
+허리, 허리,"허리 hông, eo \n phát âm : hơ ri "
+손녀, 손녀,"손녀 cháu gái \n phát âm : sôn niơ "
+여자, 여자,"여자 con gái \n phát âm : yơ cha "
+혀, 혀,"혀 lưỡi \n phát âm : hiơ "
+뼈, 뼈,"뼈 xương \n phát âm : ppiơ "
+고래, 고래,"고래 cá voi \n phát âm : kô re "
+로봇, 로봇,"로봇 rô-bốt \n phát âm : rô bôt "
+모자, 모자,"모자 mũ \n phát âm : mô cha "
+보호, 보호,"보호 bảo hộ \n phát âm : bô hô "
+소, 소,"소 con bò \n phát âm : sô"
+조개, 조개,"조개 con sò \n phát âm : chô ke "
+초, 초,"초 nến, giây \n phát âm : trô "
+코, 코,"코 mũi \n phát âm : khô "
+토끼, 토끼,"토끼 con thỏ \n phát âm : thô kki "
+포도, 포도,"포도 nho \n phát âm : phô tô "
+호수, 호수,"호수 hồ \n phát âm : hô su "
+꼬리, 꼬리,"꼬리 đuôi \n phát âm : kkô ri "
+또, 또,"또 lại, nữa \n phát âm : ttô "
+뽀뽀하다, 뽀뽀하다,"뽀뽀하다 thơm, hôn \n phát âm :  ppô ppô ha ta "
+쏘다, 쏘다,"쏘다 bắn \n phát âm : ssô ta "
+학교, 학교,"학교 trường học \n phát âm : hak kiô "
+무료, 무료,"무료 miễn phí \n phát âm : mu riô "
+묘지, 묘지,"묘지 ngôi mộ \n phát âm : miô chi "
+쇼핑, 쇼핑,"쇼핑 mua sắm \n phát âm : siô phing "
+요가, 요가,"요가 yoga \n phát âm : yô ga "
+우표, 우표,"우표 con tem \n phát âm : u phiô "
+효과, 효과,"효과 hiệu quả \n phát âm : hiô koa "
+두유, 두유,"두유 sữa đậu nành \n phát âm : tu yu "
+가루, 가루,"가루 bột\n phát âm : ka ru "
+무, 무,"무 củ cải \n phát âm : mu "
+수업, 수업,"수업 tiết học \n phát âm : su ơp "
+우박, 우박,"우박 mưa đá \n phát âm : u bak "
+주스, 주스,"주스 nước trái cây \n phát âm : chu sư "
+추가, 추가,"추가 thêm \n phát âm : tru ka "
+봉투, 봉투,"봉투 túi \n phát âm : bông thu "
+후회, 후회,"후회 hối hận \n phát âm : hu huê "
+꾸준히, 꾸준히,"꾸준히 một cách đều đặn \n phát âm : kku chun hi "
+뚜껑, 뚜껑,"뚜껑 nắp, vung \n phát âm : ttu kkơng "
+쭈구미, 쭈구미,"쭈구미 bạch tuộc nhỏ \n phát âm : jju ku mi "
+규칙, 규칙,"규칙 quy tắc \n phát âm : kiu trik "
+석류, 석류,"석류 quả lựu \n phát âm : sơk rul "
+뮤직, 뮤직,"뮤직 âm nhạc \n phát âm : miu chik"
+뷰티, 뷰티,"뷰티 cái đẹp \n phát âm : biu thi"
+이슈, 이슈,"이슈 tin tức \n phát âm : i siu"
+우유, 우유,"우유 sữa \n phát âm : u yu "
+휴가, 휴가,"휴가 nghỉ lễ \n phát âm : hiu ka "
+그네, 그네,"그네 xích đu \n phát âm : kư nê "
+부츠, 부츠,"부츠 giày bốt \n phát âm : bu trư "
+크다, 크다,"크다 to, lớn \n phát âm : khư ta "
+텐트, 텐트,"텐트 lều trại \n phát âm : thên thư "
+흐름, 흐름,"흐름 trời nhiều mây \n phát âm : hư rưm "
+쓰레기, 쓰레기,"쓰레기 rác \n phát âm : ssư rê ki "
+고기, 고기,"고기 thịt \n phát âm : kô ki "
+니트, 니트,"니트 len \n phát âm : ni thư "
+디자인, 디자인,"디자인 thiết kế \n phát âm : ti cha in "
+오리, 오리,"오리 con vịt \n phát âm : ô ri "
+비누, 비누,"비누 xà phòng \n phát âm : bi nu "
+시소, 시소,"시소 trò chơi bập bênh \n phát âm : si sô "
+이, 이,"이 răng, 2 \n phát âm : i "
+지진, 지진,"지진 động đất \n phát âm : chi chin "
+치마,  치마," 치마 chân váy \n phát âm : tri ma "
+키위, 키위,"키위 quả kiwi \n phát âm : khi uy "
+티셔츠, 티셔츠,"티셔츠 áo phông \n phát âm : thi siơ trư "
+피망, 피망,"피망 ớt chuông \n phát âm : phi mang "
+씨앗, 씨앗,"씨앗 hạt giống \n phát âm : ssi at "
+찌개, 찌개,"찌개 canh riêu \n phát âm : jji ke "
+소방대, 소방대,"소방대 đội cứu hỏa \n phát âm : sô bang te "
+판매, 판매,"판매 buôn bán \n phát âm : phan me "
+배, 배,"배 quả lê, bụng \n phát âm : be "
+캐나다, 캐나다,"캐나다 nước Canada \n phát âm : khe na ta "
+해파리, 해파리,"해파리 con sứa \n phát âm : he pha ri "
+깨다, 깨다,"깨다 đánh thức \n phát âm : kke ta "
+게, 게,"게 con cua \n phát âm : kê "
+축제, 축제,"축제 lễ hội \n phát âm : truc chê "
+우체국, 우체국,"우체국 bưu điện \n phát âm : u trê kuk "
+케이크, 케이크,"케이크 bánh gato \n phát âm : khê i khư "
+카페, 카페,"카페 quán cafe \n phát âm : kha phê "
+계란, 계란,"계란 trứng gà \n phát âm : kiê ran "
+폐, 폐,"폐 phổi \n phát âm : phê "
+와인, 와인,"와인 rượu vang \n phát âm : oa in "
+화학, 화학,"화학 hóa học \n phát âm : hoa hac "
+인쇄, 인쇄,"인쇄 in \n phát âm : in suê "
+뇌, 뇌,"뇌 não \n phát âm : nuê "
+퇴근, 퇴근,"퇴근 tan làm \n phát âm : thuê kưn "
+회의, 회의,"회의 cuộc họp \n phát âm : huê ê "
+귀, 귀,"귀 tai \n phát âm : quy "
+위, 위,"위 dạ dày \n phát âm : uy "
+쥐, 쥐,"쥐 con chuột \n phát âm : chuy "
+취미, 취미,"취미 sở thích \n phát âm : truy mi "
+지휘자, 지휘자,"지휘자 người chỉ huy \n phát âm : chi huy cha "
+의자, 의자,"의자 ghế \n phát âm : ưi cha "
+희망, 희망,"희망 hi vọng \n phát âm : hi mang "
+책, 책,"책 sách \n phát âm : trek "
+백, 백,"백 100 \n phát âm : bek "
+떡, 떡,"떡 bánh gạo \n phát âm : ttơk "
+북, 북,"북 trống \n phát âm : buk "
+손, 손,"손 tay \n phát âm : sôn "
+환자, 환자,"환자 bệnh nhân \n phát âm : hoan cha "
+친구, 친구,"친구 bạn \n phát âm : trin ku "
+곧, 곧,"곧 sắp \n phát âm : kôt "
+숟가락, 숟가락,"숟가락 thìa \n phát âm : sut ka rak "
+돋보기, 돋보기,"돋보기 kính lúp \n phát âm : tôt bô ki "
+물, 물,"물 nước \n phát âm : mul "
+별, 별,"별 ông sao \n phát âm : biơl "
+벌, 벌,"벌 con ong \n phát âm : bơl "
+뱀, 뱀,"뱀 rắn \n phát âm : bem "
+봄, 봄,"봄 mùa xuân \n phát âm : bôm "
+감, 감,"감 quả hồng \n phát âm : kam "
+밥, 밥,"밥 cơm \n phát âm : bap "
+집, 집,"집 nhà \n phát âm : chip "
+옷, 옷,"옷 áo \n phát âm : ôt "
+빗, 빗,"빗 cái lược \n phát âm : bit "
+팔, 팔,"팔 cánh tay \n phát âm : phal "
+땅, 땅,"땅 đất \n phát âm : ttang "
+장미, 장미,"장미 hoa hồng \n phát âm : chang mi "
+곶감, 곶감,"곶감 hồng khô \n phát âm : kôt kam "
+찾다, 찾다,"찾다 tìm kiếm \n phát âm : trat ta "
+및, 및,"및 và \n phát âm : mit "
+꽃, 꽃,"꽃 hoa \n phát âm : kkôt "
+몇, 몇,"몇 bao nhiêu \n phát âm : miơt "
+부엌, 부엌,"부엌 bếp \n phát âm : bu ơk "
+동녘, 동녘,"동녘 hướng nam \n phát âm : tông niơk "
+북녘, 북녘,"북녘 hướng bắc \n phát âm : buk niơk "
+밑, 밑,"밑 phía dưới \n phát âm : mit "
+밭, 밭,"밭 bạt(cỏ, lúa) \n phát âm : pat "
+같이, 같이,"같이 cùng nhau \n phát âm : kat i "
+잎, 잎,"잎 lá \n phát âm : ip "
+무릎, 무릎,"무릎 đầu gối \n phát âm : mu rưp "
+앞, 앞,"앞 phía trước \n phát âm : ap "
+좋다, 좋다,"좋다 tốt \n phát âm : chôt ta "
+노랗다, 노랗다,"노랗다 vàng \n phát âm : nô ra ta "
+쌓다, 쌓다,"쌓다 xếp, chồng \n phát âm : ssa ta "
+낚시, 낚시,"낚시 câu cá \n phát âm : nak si "
+닦다, 닦다,"닦다 đánh rửa \n phát âm : tak ta "
+있다, 있다,"있다 có \n phát âm : it ta "
+먹었다, 먹었다,"먹었다 đã ăn \n phát âm : mơk ơt ta "
+잤다, 잤다,"잤다 đã ngủ \n phát âm : chat ta "
+몫, 몫,"몫 mảnh ghép \n phát âm : môk "
+넋, 넋,"넋 linh hồn \n phát âm : nơk "
+외곬, 외곬,"외곬 theo một hướng \n phát âm : uê kôl "
+앉다, 앉다,"앉다 ngồi \n phát âm : an ta "
+읽다, 읽다,"읽다 đọc \n phát âm : ik ta "
+맑다, 맑다,"맑다 trong trẻo \n phát âm : mak ta "
+삶, 삶,"삶 cuộc sống \n phát âm : sam "
+닮다, 닮다,"닮다 giống nhau \n phát âm : tam ta "
+옮다, 옮다,"옮다 di chuyển \n phát âm : ôm ta "
+여덟, 여덟,"여덟 8 \n phát âm : yơ tơl "
+넓다, 넓다,"넓다 rộng \n phát âm : nơl ta "
+핥다, 핥다,"핥다 liếm \n phát âm : hal ta "
+없다, 없다,"없다 không có \n phát âm : ơp ta "
+많다, 많다,"많다 nhiều \n phát âm : man ta "
+끊다, 끊다,"끊다 cắt đứt, kết thúc \n phát âm : kkưn ta "
+않다, 않다,"않다 không \n phát âm : an ta "
+잃다, 잃다,"잃다 quên \n phát âm : il ta "
+싫다, 싫다,"싫다 ghét \n phát âm : sil ta "
+끓다, 끓다,"끓다 đun sôi \n phát âm : kkưl ta "
+읊다, 읊다,"읊다 ngâm thơ \n phát âm : ưp ta "
+까치,까치,”까치 chim kkachi \n phát âm : kka tri "
+따다,따다,”따다 hái, vặt \n phát âm : tta ta "
+아빠,아빠,”아빠 bố \n phát âm : a ppa "
+바나나,바나나,”바나나 quả chuối \n phát âm : ba na na "
+나비,나비,”나비 con bướm \n phát âm : na bi "
+이마,이마,”이마 trán \n phát âm : i ma "
+다리,다리,”다리 cây cầu, chân \n phát âm : ta ri "
+라디오,라디오,”라디오 đài radio \n phát âm : ra ti ô "
+가위,가위,”가위 cái kéo \n phát âm : ka uy  "
+자전거,자전거,”자전거 xe đạp \n phát âm : cha chơn kơ "
+자동차,자동차,”자동차 xư ô tô \n phát âm : cha tông cha "
+거미,거미,”거미 con nhện \n phát âm : kơ mi "
+너구리,너구리,”너구리 con chồn \n phát âm : nơ ku ri "
+야외,야외,”야외 ngoài trời \n phát âm : ya uê "
+짜다,짜다,”짜다 mặn \n phát âm : jja ta "
+짜장면,짜장면,”짜장면 mì đen \n phát âm : jja chang miơn "
+카드,카드,”카드 thẻ \n phát âm : kha tư "
+하마,하마,”하마 con hà mã \n phát âm : ha ma "
+타조,타조,”타조 con đà điểu \n phát âm : tha chô "
+파,파,”파 hành \n phát âm : pha "
+혀,혀,”혀 lưỡi \n phát âm : hiơ "
+러시아,러시아,”러시아 nước Nga \n phát âm : lơ si a "
+씨,씨,”씨 hạt \n phát âm : ssi "
+어묵,어묵,”어묵 bánh cá \n phát âm : ơ muk "
+무료,무료,”무료 miễn phí \n phát âm : mu riô "
+버터,버터,”버터 bơ \n phát âm : bơ thơ "
+부처,부처,”부처 phật \n phát âm : bu trơ "
+쇼핑,쇼핑,”쇼핑 mua sắm \n phát âm : siô phing "
+요가,요가,”요가 yoga \n phát âm : yô ka "
+저고리,저고리,”저고리 áo của bộ hanbok \n phát âm : chơ kô ri "
+처리하다,처리하다,”처리하다 xử lí \n phát âm : trơ ri ha ta "
+처음,처음,”처음 đầu tiên \n phát âm : trơ ưm "
+커피,커피,”커피 cà fe \n phát âm : khơ phi "
+퍼즐,퍼즐,”퍼즐 mảnh ghép hình \n phát âm : phơ chưl "
+학교,학교,”학교 trường học \n phát âm : hak kiô "
+허리,허리,”허리 hông, eo \n phát âm : hơ ri "
+오후,오후,”오후 buổi chiều \n phát âm : ô hu "
+초,초,”초 giây, nến \n phát âm : trô "
+도시,도시,”도시 thành phố \n phát âm : tô si "
+포도,포도,”포도 nho \n phát âm : phô tô "
+코,코,”코 mũi \n phát âm : khô "
+보호,보호,”보호 bảo hộ \n phát âm : bô hô "
+토끼,토끼,”토끼 con thỏ \n phát âm : thô kki "
+조개,조개,”조개 con sò \n phát âm : chô ke "
+가루,가루,”가루 bột \n phát âm : ka ru "
+구름,구름,”구름 mây \n phát âm : ku rưm "
+누르다,누르다,”누르다 nhấn, ấn \n phát âm : nu rư ta "
+두부,두부,”두부 đậu phụ \n phát âm : tu bu "
+두유,두유,”두유 sữa đậu nành \n phát âm : tu yu "
+무,경,”무 củ cải \n phát âm : mu  "
+우표,우표,”우표 con tem \n phát âm : u phiô "
+효과,효과,”효과 hiệu quả \n phát âm : hiô koa "
+개,개,”개 con chó \n phát âm : ke "
+개구리,개구리,”개구리 con ếch \n phát âm : ke ku ri "
+게,게,”게 con ghẹ \n phát âm : kê "
+깨다,깨다,”깨다 đánh thức \n phát âm : kke ta "
+꾸준히,꾸준히,”꾸준히 đều đặn \n phát âm : kku chun hi "
+뚜껑,뚜껑,”뚜껑 nắp, vung \n phát âm : ttu kkơng "
+레몬,레몬,”레몬 quả chanh \n phát âm : lê môn "
+배,배,”배 thuyền, lê \n phát âm : be "
+부채,부채,”부채 quạt giấy \n phát âm : bu tre "
+우박,우박,”우박 mưa đá \n phát âm : u bak "
+우체국,우체국,”우체국 bưu điện \n phát âm : u trê kuk "
+주스,주스,”주스 nước hoa quả \n phát âm : chu sư "
+쭈꾸미,쭈꾸미,”쭈꾸미 bạch tuộc con \n phát âm : jju kku mi "
+추가하다,추가하다,”추가하다 thêm \n phát âm : tru ka ha ta "
+추억,추억,”추억 kí ức \n phát âm : tru ơk "
+축제,축제,”축제 lễ hội \n phát âm : truk chê "
+카페,카페,”카페 quán cafe \n phát âm : kha phê "
+캐나다,캐나다,”캐나다 nước Canada \n phát âm : khe na ta "
+케이크,케이크,”케이크 bánh gato \n phát âm : khê i khư "
+투입,투입,”투입 nhập vào \n phát âm : thu ip "
+판매,판매,”판매 bán hàng \n phát âm : phan me "
+해파리,해파리,”해파리 con sứa \n phát âm : he pha ri "
+후회,후회,”후회 hối hận \n phát âm : hu huê "
+희망,희망,”희망 hi vọng \n phát âm : hi mang "
+또,또,”또 nữa, lại \n phát âm : ttô "
+크다,크다,”크다 to \n phát âm : khư ta "
+부츠,부츠,”부츠 giày bốt \n phát âm : bu trư "
+드럼,드럼,”드럼 trống (trong dàn nhạc) \n phát âm : tư rơm "
+귀,귀,”귀 tai \n phát âm : kuy "
+흐르다,흐르다,”흐르다 dâm, nhiều mây \n phát âm : hư rư ta "
+취미,취미,”취미 sở thích \n phát âm : truy mi "
+뽀뽀하다,뽀뽀하다,”뽀뽀하다 thơm \n phát âm : ppô ppô ha ta "
+폐,폐,”폐 phổi \n phát âm : phi ê "
+인쇄,인쇄,”인쇄 in ấn \n phát âm : in suê "
+쥐,쥐,”쥐 con chuột \n phát âm : chuy "
+쏘다,쏘다,”쏘다 bắn \n phát âm : ssô ta "
+느리다,느리다,”느리다 chậm chạp \n phát âm : nuư ri ta "
+위장,위장,”위장 dạ dày \n phát âm : uy chang  "
+그네,그네,”그네 xích đu \n phát âm : kư nê "
+꼬리,꼬리,”꼬리 cái đuôi \n phát âm : kkô ri "
+쓰레기,쓰레기,”쓰레기 rác \n phát âm : ssư rê ki "
+트럭,트럭,”트럭 xe tải \n phát âm : thư lơk "
+책,책,”책 sách \n phát âm : trek "
+국,국,”국 canh \n phát âm : kuk "
+백,백,”백 một trăm \n phát âm : bek "
+북,북,”북 trống, phía Bắc \n phát âm : buk "
+속,속,”속 bên trong \n phát âm : sôk "
+약,약,”약 thuốc \n phát âm : yak "
+역,역,”역 ga tàu \n phát âm : yơk "
+죽,죽,”죽 cháo \n phát âm : chuk "
+팩,팩,”팩 gói, túi \n phát âm : phek "
+눈,눈,”눈 mắt \n phát âm : nun "
+문,문,”문 cửa \n phát âm : mun "
+간,간,”간 gan \n phát âm : kan "
+은,은,”은 bạc \n phát âm : ưn "
+천,천,”천 một nghìn \n phát âm : trơn  "
+권,권,”권 quyển \n phát âm : kuơn "
+팬,팬,”팬 bút \n phát âm : phen "
+면,면,”면 mì, miến \n phát âm : miơn "
+운,운,”운 vận số \n phát âm : un "
+끈,끈,”끈 sợi dây \n phát âm : kkưn "
+곧,곧,”곧 sắp \n phát âm : kôt "
+봄,봄,”봄 mùa xuân \n phát âm : bôm  "
+햄,햄,”햄 thịt hộp \n phát âm : hem "
+땀,땀,”땀 mồ hôi \n phát âm : ttam "
+감,감,”감 quả hồng \n phát âm : kam "
+짐,짐,”짐 hành lý \n phát âm : chim "
+팀,팀,”팀 đội  \n phát âm : thim "
+김,김,”김 rong biển \n phát âm : kim "
+셈,셈,”셈 sự tính toán \n phát âm : sêm "
+낮,낮,”낮 ban ngày \n phát âm : nat "
+빚,빚,”빚 nợ \n phát âm : bit "
+젖,젖,”젖 sữa mẹ \n phát âm : chơt "
+글,글,”글 chữ viết \n phát âm : kưl "
+꿀,꿀,”꿀 mật ong \n phát âm : kkul "
+날,날,”날 lưỡi (dao) \n phát âm : nal "
+딸,딸,”딸 con gái \n phát âm : ttal "
+떡,떡,”떡 bánh gạo \n phát âm : ttơk "
+벌,벌,”벌 con ong \n phát âm : bơl "
+별,별,”별 ông sao \n phát âm : biơl "
+버섯,버섯,”버섯 nấm \n phát âm : bơ sơt "na na "
+털,털,”털 lông \n phát âm : thơl "
+뼈,뼈,”뼈 xương \n phát âm : ppiơ "
+아기,아기,”아기 em bé \n phát âm : a ki "
+큰,큰,”큰 to \n phát âm : khưn "
+고래,고래,”고래 cá voi \n phát âm : kô re "
+노래,노래,”노래 bài hát \n phát âm : nô re "
+느리다,느리다,”느리다 chậm chạp \n phát âm : nư ri ta "
+다리,다리,”다리 câù, chân \n phát âm : ta ri "
+위,위,”위 dạ dày \n phát âm : uy "
+자동차,자동차,”자동차 xe ô tô \n phát âm : cha tông cha "
+촛불,촛불,”촛불 nến \n phát âm : trôt bul "
+타조,타조,”타조 đà điểu \n phát âm : tha chô "
+폐,폐,”폐 phổi \n phát âm : phiê "
+포도,포도,”포도 quả nho \n phát âm : phô tô "
+하마,하마,”하마 hà mã \n phát âm : ha ma "
+할머니,할머니,”할머니 bà \n phát âm : hal mơ ni "
+호수,호수,”호수 hồ \n phát âm : hô su "
+흐름,흐름,”흐름 trời nhiều mây \n phát âm : hư rưm "
+관계,관계,”관계 quan hệ \n phát âm : koan kê "
+끝, 끝,”끝 kết thúc \n phát âm : kkưt "
+밭,밭,”밭 đồng, ruộng \n phát âm : bat "
+삶,삶,”삶 sống \n phát âm : sam "
+쌀,쌀,”쌀 gạo \n phát âm : ssal "
+언니,언니,”언니 chị \n phát âm : ơn ni "
+연기,연기,”연기 khói \n phát âm : yơn ki "
+인사,인사,”인사 chào hỏi \n phát âm : in sa "
+친구,친구,”친구 bạn \n phát âm : trin ku "
+편지,편지,”편지 thư \n phát âm : phiơn chi "
+꽃,꽃,”꽃 hoa \n phát âm : kkôt "
+닭,닭,”닭 con gà \n phát âm : tak "
+몇,몇,”몇 mấy \n phát âm : miơt "
+밖,밖,”밖 bên ngoài \n phát âm : bak "
+총,총,”총 súng \n phát âm : trông "
+흙,흙,”흙 đất \n phát âm : hưk "
+환자,환자,”환자 người bệnh \n phát âm : hoan cha "
+수입,수입,”수입 nhập vào \n phát âm : su ip "
+네덜란드,네덜란드,”네덜란드 nước Hà Lan \n phát âm : nê tơl lan tư "
+네팔,네팔,”네팔 nước Nepan \n phát âm : nê phal "
+된소리,된소리,”된소리 âm căng \n phát âm : tuên sô ri "
+된장,된장,”된장 đậu tương lên men \n phát âm : tuên chang "
+빠르다,빠르다,”빠르다 nhanh \n phát âm : ppa rư ta "
+빠지다,빠지다,”빠지다 rơi \n phát âm : ppa chi ta "
+빨간색,빨간색,”빨간색 màu đỏ \n phát âm : ppal kan sek "
+빨대,빨대,”빨대 ống hút \n phát âm : ppal te "
+빨래,빨래,”빨래 giặt \n phát âm : ppal lê "
+빵,빵,”빵 bánh \n phát âm : ppang "
+빻다,빻다,”빻다 giã \n phát âm : ppat ta "
+빼기,빼기,”빼기 trừ, loại bỏ \n phát âm : ppe ki "
+뾰족하다,뾰족하다,”뾰족하다 nhọn, sắc bén \n phát âm : ppiô chôk ha ta "
+뿌리,뿌리,”뿌리 rễ cây \n phát âm : ppu ri "
+뿔,뿔,”뿔 sừng \n phát âm : ppul "
+삐다,삐다,”삐다 bong gân \n phát âm : ppi ta "
+짜증나다,짜증나다,”짜증나다 bực mình \n phát âm : jja chưng na ta "
+쪽지,쪽지,”쪽지 mảnh giấy \n phát âm : jjôk chi "
+찌르다,찌르다,”찌르다 đâm, chích \n phát âm : jji rư ta "
+찜질,찜질,”찜질 chườm \n phát âm : jjim chil "
+찢다,찢다,”찢다 xé \n phát âm : jjit ta "
+차,차,”차 xe \n phát âm : tra ta "
+체리,체리,”체리 quả cherry \n phát âm : trê ri "
+체조,체조,”체조 thể thao \n phát âm : trê chô "
+첼로,첼로,”첼로 đàn trung hồ cầm \n phát âm : trêl lô "
+초록색,초록색,”초록색 màu xanh lá cây \n phát âm : trô rôk sek "
+축구,축구,”축구 bóng đá \n phát âm : truk ku "
+춤,춤,”춤 điệu nhảy \n phát âm : trum "
+태양,태양,”태양 mặt trời \n phát âm : the yang "
+토마토,토마토,”토마토 cà chua \n phát âm : thô ma thô "
+튤립,튤립,”튤립 hoa tulip \n phát âm : thiul lip "
+틀니,틀니,”틀니 răng giả \n phát âm : thưl ni "
+싸다,싸다,”싸다 rẻ \n phát âm : ssa ta "
+싸움,싸움,”싸움 cãi nhau \n phát âm : ssa um "
+싸인,싸인,”싸인 kí tên \n phát âm : ssa in "
+싹둑,싹둑,”싹둑 xoẹt, roẹt, phăng (Tiếng phát ra khi chặt hoặc cắt đồ vật) \n phát âm : ssak tuk "
+쌀국수,쌀국수,”쌀국수 phở \n phát âm : ssal kuk su "
+쌈장,쌈장,”쌈장 tương ăn kèm với món cuốn \n phát âm : ssam chang "
+쌍둥이,쌍둥이,”쌍둥이 anh em sinh đôi \n phát âm : ssang tung i "
+쓰기,쓰기,”쓰기 viết \n phát âm : ssư ta "
+쓰레기통,쓰레기통,”쓰레기통 thùng rác \n phát âm : ssư rê ki "
+씨름,씨름,”씨름 đấu vật \n phát âm : ssi rưm "
+씨리얼,씨리얼,”씨리얼 ngũ cốc ăn liền \n phát âm : ssi ri ơl "
+씽크대,씽크대,”씽크대 boồn rửa bát \n phát âm : ssing kư te "
+카레,카레,”카레 cà ri \n phát âm : kha rê "
+카메라,카메라,”카메라 máy ảnh \n phát âm : kha mê ra "
+카운터,카운터,”카운터 quầy tiếp tân \n phát âm : kha un thơ "
+칵테일,칵테일,”칵테일 rượu cốc tai \n phát âm : kha thê il "
+칼,칼,”칼 dao \n phát âm : khal "
+칼로리,칼로리,”칼로리 calo \n phát âm : khal lô ri "
+칼슘,칼슘,”칼슘 canxi \n phát âm : khal sum "
+칼집,칼집,”칼집 vỏ đựng dao \n phát âm : khal chip "
+케첩,케첩,”케첩 sốt cà chua ketchup \n phát âm : khê trap "
+코끼리,코끼리,”코끼리 con voi \n phát âm : khô kki ri "
+코트,코트,”코트 áo dạ \n phát âm : khô thư "
+쿠키,쿠키,”쿠키 bánh cookie \n phát âm : khu khi "
+크리스마스,크리스마스,”크리스마스 noel \n phát âm : khư ri sư ma sư "
+파괴,파괴,”파괴 phá hủy \n phát âm : pha kuê "
+파도,파도,”파도 sóng biển \n phát âm : pha tô "
+파란색,파란색,”파란색 màu xanh dương \n phát âm : pha ran sek "
+파리,파리,”파리 con ruồi \n phát âm : pha ri "
+파일,파일,”파일 file \n phát âm : pha il "
+파자마,파자마,”파자마 bộ pijama \n phát âm : pha cha ma "
+파충류,파충류,”파충류 loài bò sát \n phát âm : pha trông riu "
+파티,파티,”파티 party \n phát âm : pha thi "
+팔찌,팔찌,”팔찌 vòng tay \n phát âm : phal jji "
+팝콘,팝콘,”팝콘 bỏng ngô \n phát âm : phap khôn "
+포장,포장,”포장 đóng gói \n phát âm : phô chang "
+포크,포크,”포크 cái dĩa \n phát âm : phô khư "
+표정,표정,”표정 biểu hiện \n phát âm : phiô chơng "
+프랑스,프랑스,”프랑스 nước Pháp \n phát âm : phư rang sư "
+짝수,짝수,”짝수 số chẵn \n phát âm : jjak su "
+짝짓기,짝짓기,”짝짓기 giao phối \n phát âm : jjak chit ki "
+짧다,짧다,”짧다 ngắn \n phát âm : jjap ta "
+짬뽕,짬뽕,”짬뽕 mì hải sản cay \n phát âm : jjam ppông "
+짱구,짱구,”짱구 trán dô \n phát âm : jjang ku "
+짱돌,짱돌,”짱돌 đá cuội lớn \n phát âm : jjang tôl "
+쩌렁쩌렁,쩌렁쩌렁,”쩌렁쩌렁 tiếng vang, oang oang \n phát âm : jjơ rơng jjơ rơng "
+쩔쩔매다,쩔쩔매다,”쩔쩔매다 luống cuống \n phát âm : jjơl jjơl ha ta "
+계산,계산,”계산 thanh toán \n phát âm : kiê san "
+계산기,계산기,”계산기 máy tính \n phát âm : kiê san ki "
+셰프,셰프,”셰프 bếp trưởng \n phát âm : siê phư "
+예수,예수,”예수 chúa Jesus \n phát âm : yê su "
+예방접종,예방접종,”예방접종 tiêm phòng \n phát âm : yê bang chơp chông "
+예비군,예비군,”예비군 quân dự phòng \n phát âm : yê bi kun "
+예술,예술,”예술 nghệ thuật \n phát âm : yê sul "
+폐교,폐교,”폐교 trường học đóng cửa \n phát âm : phiê kiô "
+쪼다,쪼다,”쪼다 mổ \n phát âm : jjô ta "
+쪽잠,쪽잠,”쪽잠 ngủ gật \n phát âm : jjôk cham "
+쌍꺼풀,쌍꺼풀,”쌍꺼풀 mắt hai mí \n phát âm : ssang kkơ phưl "
+샤워,샤워,”샤워 tắm \n phát âm : sia uơ "
+샤프,샤프,”샤프 bút chì kim \n phát âm : sia phư "
+야구,야구,”야구 boóng chày \n phát âm : ya ku "
+야채,야채,”야채 rau \n phát âm : ya tre "
+약국,약국,”약국 tiệm thuốc \n phát âm : yak kuk "
+약속,약속,”약속 cuộc hẹn \n phát âm : yak sôk "
+양말,양말,”양말 tất \n phát âm : yang mal "
+양배추,양배추,”양배추 bắp cải \n phát âm : yang be tru "
+양주,양주,”양주 rượu tây \n phát âm : yang chu "
+양치질,양치질,”양치질 việc đánh răng \n phát âm : yang tri chil "
+통계,통계,”통계 thống kê \n phát âm : thông kiê "
+통장,통장,”통장 sổ ngân hàng \n phát âm : thông chang "
+통조림,통조림,”통조림 tực phẩm đóng hộp \n phát âm : thông chô rim "
+투표,투표,”투표 bỏ phiếu bầu \n phát âm : thu phiô "
+튀기다,튀기다,”튀기다 rán \n phát âm : thuy ki ta "
+괜찮다,괜찮다,”괜찮다 không sao \n phát âm : koen tran ta "
+괭이,괭이,”괭이 cái cuốc \n phát âm : kôeng i "
+돼지고기,돼지고기,”돼지고기 thịt heo \n phát âm : toe chi kô ki "
+돼지띠,돼지띠,”돼지띠 tuổi heo \n phát âm : toe chi tti "
+돼지저금통,돼지저금통,”돼지저금통 heo đất bỏ ống \n phát âm : toe chi chơ kưm thông "
+왜곡,왜곡,”왜곡 xuyên tạc \n phát âm : oe kôk "
+왜소하다,왜소하다,”왜소하다 còi cọc \n phát âm : oe sô ha ta "
+쾌변,쾌변,”쾌변 nhuận tràng \n phát âm : khoe biơn "
+쾌유,쾌유,”쾌유 bình phục \n phát âm : khoe yu "
+귀마개,귀마개,”귀마개 bông bịt lỗ tai \n phát âm : kuy ma ke "
+귀엽다,귀엽다,”귀엽다 đáng yêu \n phát âm : kuy yơp ta "
+귓볼,귓볼,”귓볼 dái tai \n phát âm : kuyt bôl "
+샴페인,샴페인,”샴페인 rượu sâm panh \n phát âm : siam phê in "
+샴푸,샴푸,”샴푸 dầu gội \n phát âm : siam phu "
+샹들리에,샹들리에,”샹들리에 đèn chùm \n phát âm : siang tưl li ê "
+야자수,야자수,”야자수 cây dừa \n phát âm : ya cha su "
+향수,향수,”향수 nước hoa \n phát âm : hiang su "
+괴롭히다,괴롭히다,”괴롭히다 gây đau buồn \n phát âm : kuê rôp hi ta "
+괴물,괴물,”괴물 quái vật \n phát âm : kuê mul 
+외국인,외국인,”외국인 người ngoại quốc \n phát âm : uê kuk in "
+외롭다,외롭다,”외롭다 cô đơn \n phát âm : uê rôp ta "
+죄,죄,”죄 tội \n phát âm : chuê "
+최고,최고,”최고 số một, nhất \n phát âm : truê k ô "
+회,회,”회 món gỏi sống \n phát âm : huê  "
+회사,회사,”회사 công ty \n phát âm : huê sa "
+회색,회색,”회색 liên hoan công ty \n phát âm : huê sek "
+화장,화장,”화장 trang điểm \n phát âm : hoa chang "
+회장,회장,”회장 chủ tịch \n phát âm : huê chang "
+귀족,귀족,”귀족 quý tộc \n phát âm : kuy chôk "
+귀퉁이,귀퉁이,”귀퉁이 vành tai \n phát âm : kuy thông i "
+뒤꿈치,뒤꿈치,”뒤꿈치 gót chân \n phát âm : tuy kkum tri "
+뒤지다,뒤지다,”뒤지다 tụt hậu \n phát âm : tuy chi ta "
+뒤집개,뒤집개,”뒤집개 cái xẻng nấu ăn \n phát âm : tuy chip ke "
+뷔스티에,뷔스티에,”뷔스티에 kiểu áo Bustier \n phát âm : buy sư thi ê "
+뷔페,뷔페,”뷔페 ăn bu-phê \n phát âm : buy phiê "
+쉼표,쉼표,”쉼표 dấu phẩy \n phát âm : suym phiô "
+위치,위치,”위치 vị trí \n phát âm : uy tri "
+위험,위험,”위험 nguy hiểm \n phát âm : uy hơm "
+쥐덫,쥐덫,”쥐덫 bẫy chuột \n phát âm : chuy tơt "
+취업,취업,”취업 tìm việc \n phát âm : truy ơp "
+회전목마,회전목마,”회전목마 trò chơi vòng xoay ngựa gỗ \n phát âm : huê chơn môk ma "
+회전문,회전문,”회전문 cửa xoay \n phát âm : huê chơn mun "
+의미,의미,”의미 ý nghĩa \n phát âm : ưi mi "
+의사,의사,”의사 bác sĩ \n phát âm : ưi cha "
+의사소통,의사소통,”의사소통 giao tiếp \n phát âm : ưi sa sô thông "
+의식,의식,”의식 ý thức \n phát âm : ưi sik "
+급,급,”급 cấp \n phát âm : kưp "
+답,답,”답 câu trả lời \n phát âm : tap "
+밥,밥,”밥 cơm \n phát âm : bap "
+법,법,”법 luật \n phát âm : bơp "
+입,입,”입 miệng \n phát âm : ip "
+집,집,”집 nhà \n phát âm : chip "
+낫,낫,”낫 cái liềm \n phát âm : nat "
+넷,넷,”넷 số bốn \n phát âm : nêt "
+뜻,뜻,”뜻 nghĩa \n phát âm : ttưt "
+빗,빗,”빗 nắng \n phát âm : bit "
+셋,셋,”셋 số ba \n phát âm : sêt "
+옷,옷,”옷 áo dạ \n phát âm : ôt "
+첫,첫,”첫 thứ nhất \n phát âm : trơt "
+강,강,”강 sông \n phát âm : kang "
+동,동,”동 đông \n phát âm : tông "
+병,무,”병 bệnh \n phát âm : biơng "
+상,상,”상 bàn \n phát âm : sang "
+양,양,”양 con cừu \n phát âm : yang "
+장,장,”장 tờ \n phát âm : chang "
+콩,콩,”콩 hạt đậu \n phát âm : không "
+탕,탕,”탕 bồn tắm \n phát âm : thang "
+통,통,”통 thùng \n phát âm : thông "
+형,형,”형 anh \n phát âm : hiơng "
+사과,사과,”사과 qua táo \n phát âm : sa koa "
+와인,와인,”와인 rượu vang \n phát âm : oa in "
+화학,화학,”화학 hóa học \n phát âm : hoa hak "
+뇌,뇌,”뇌 não \n phát âm : nuê "
+범죄,범죄,”범죄 phạm tội \n phát âm : bơm chuê "
+열쇠,열쇠,”열쇠 chìa khóa \n phát âm : yơl suê "
+퇴근,퇴근,”퇴근 tan làm \n phát âm : thuê kưn "
+회의,회의,”회의 cuộc họp \n phát âm : huê i "
+지휘자,지휘자,”지휘자 người chỉ huy \n phát âm : chi huy cha "
+규칙,규칙,”규칙 quy tắc \n phát âm : kiu trik "
+뉴스,뉴스,”뉴스 thời sự \n phát âm : niu sư "
+뮤직,뮤직,”뮤직 âm nhạc \n phát âm : miu chik "
+뷰티,뷰티,”뷰티 cái đẹp \n phát âm : biu thi "
+석류,석류,”석류 quả lựu \n phát âm : sơk riu "
+이슈,이슈,”이슈 tin tức \n phát âm : i siu "
+휴가,휴가,”휴가 ngày nghỉ \n phát âm : hiu ka "
+개미,개미,”개미 con kiến \n phát âm : ke mi "
+고기,고기,”고기 thịt \n phát âm : kô ki "
+니트,니트,”니트 len \n phát âm : ni thư "
+디자인,디자인,”디자인 thiết kế \n phát âm : ti cha in "
+미래,미래,”미래 tương lai \n phát âm : mi re "
+시소,시소,”시소 cái bập bênh \n phát âm : si sô "
+씨앗,씨앗,”씨앗 hạt giống \n phát âm : ssi at "
+오리,오리,”오리 con vịt \n phát âm : ô ri "
+이,이,”이 răng  \n phát âm : i  "
+지진,지진,”지진 động đất \n phát âm : chi chin "
+찌개,찌개,”찌개 canh, riêu \n phát âm : jji ke "
+치마,치마,”치마 chân váy \n phát âm : tri ma "
+키위,키위,”키위 quaả kiwi \n phát âm : khi uy "
+티셔츠,티셔츠,”티셔츠 áo phông \n phát âm : thi siơ trư "
+피망,피망,”피망 ớt chuông \n phát âm : phi mang "
+피부,피부,”피부 da dẻ \n phát âm : phi bu "
+가격,가격,”가격 giá cả \n phát âm : ka kiơk "
+먹다,먹다,”먹다 ăn \n phát âm : mơk ta "
+부탁,부탁,”부탁 nhờ vả \n phát âm : bu thak "
+수박,수박,”수박 dưa hấu \n phát âm : su bak "
+식탁,식탁,”식탁 bàn ăn \n phát âm : sik thak "
+조직,조직,”조직 tổ chức \n phát âm : chô chik "
+지역,지역,”지역 khu vực \n phát âm : chi yơk "
+넋,넋,”넋 linh hồn \n phát âm : nơk "
+몫,몫,”몫 phần \n phát âm : môk "
+삯,삯,”삯 chi phí \n phát âm : sak "
+땅,땅,”땅 đất \n phát âm : ttang "
+왕,왕,”왕 vua \n phát âm : oang "
+앞,앞,”앞 đằng trước \n phát âm : ap "
+옆,옆,”옆 bên cạnh \n phát âm : yơp "
+잎,잎,”잎 lá \n phát âm : ip "
+딸기,딸기,”딸기 quả dâu \n phát âm : ttal ki "
+마늘,마늘,”마늘 tỏi \n phát âm : ma nưl "
+학자,학자,”학자 học giả \n phát âm : hak cha "
+젓다,젓다,”젓다 khuấy \n phát âm : chơt ta "
+주말,주말,”주말 cuối tuần \n phát âm : chi mal "
+출구,출구,”출구 cửa ra \n phát âm : trul ku "
+씻다,씻다,”씻다 rửa \n phát âm : ssit ta "
+까마귀,까마귀,”까마귀 con quạ \n phát âm : kka ma kuy "
+깡통,깡통,”깡통 hộp thiếc \n phát âm : kkang thông "
+따뜻하다,따뜻하다,”따뜻하다 ấm \n phát âm : tta ttưt ha ta "
+따옴표,따옴표,”따옴표 dấu ngoặc kép \n phát âm : tta ôm phiô "
+딱정벌레,딱정벌레,”딱정벌레 bọ cánh cứng \n phát âm : ttak chơng bơl lê "
+땅콩,땅콩,”땅콩 hạt lạc \n phát âm : ttang không "
+라이벌,라이벌,”라이벌 đối thủ \n phát âm : la i bơl  "
+깨소금,깨소금,”깨소금 muối mè \n phát âm : kke sô kưm "
+때수건,때수건,”때수건 khăn tắm \n phát âm : tte su kơn "
+껍질,껍질,”껍질 vỏ \n phát âm : kkơp chil "
+떡볶이,떡볶이,”떡볶이 bánh gạo cay \n phát âm : ttơk bôk i  "
+뗀석기,뗀석기,”뗀석기 thời kỳ đồ đá \n phát âm : ttêl sơk ki "
+꼬마,꼬마,”꼬마 sò huyết \n phát âm : kkô ma "
+꽁치,꽁치,”꽁치 cá thu đao \n phát âm : kkông tri "
+똑같다,똑같다,”똑같다 giống nhau \n phát âm : ttôk kat ta "
+꽹가리,꽹가리,”꽹가리 chiêng \n phát âm : kkoeng ka ri "
+꿈,꿈,”꿈 giấc mơ \n phát âm : kkum "
+꿈틀거리다,꿈틀거리다,”꿈틀거리다 ngọ nguậy \n phát âm : kkum thưl kơ ri ta  "
+뚱뚱하다,뚱뚱하다,”뚱뚱하다 béo \n phát âm : ttung ttung ha ta "
+루돌프,루돌프,”루돌프 Tuần lộc Rudolph Mũi đỏ \n phát âm : ru tôl phư "
+루비,루비,”루비 đá rubi, đá hồng ngọc \n phát âm : ru bi "
+꿩,꿩,”꿩 chim trĩ \n phát âm : kkuơng "
+끄다,끄다,”끄다 tắt \n phát âm : kkư ta "
+끌다,끌다,”끌다 kéo \n phát âm : kkưl ta "
+뜨겁다,뜨겁다,”뜨겁다 nóng \n phát âm : ttư kơp ta "
+뜨게질,뜨게질,”뜨게질 việc đan, móc \n phát âm : ttư kê chil "
+뜰채,뜰채,”뜰채 vợt \n phát âm : ttưl tre "
+리듬,리듬,”리듬 nhịp điệu \n phát âm : li tưm "
+리코더,리코더,”리코더 tiêu (nhạc cụ) \n phát âm : ri khô tơ "
+뻐꾸기시계,뻐꾸기시계,”뻐꾸기시계 đồng hồ chim cu \n phát âm : ppơ kku ki si kiê "
+뻥튀기,뻥튀기,”뻥튀기 bỏng \n phát âm : ppơng thuy ki "
+메기,메기,”메기 con cá trê \n phát âm : mê ki "
+베개,베개,”베개 cái gối \n phát âm : bê ke "
+베이컨,베이컨,”베이컨 thịt heo muối xông khói \n phát âm : bê i khơn "
+에어컨,에어컨,”에어컨 máy điều hòa \n phát âm : ê ơ khơn "
+제주도,제주도,”제주도 đảo jeju \n phát âm : chê chu tô "
+헤엄,헤엄,”헤엄 sự bơi lội \n phát âm : hê ơm "
+겨울,겨울,”겨울 mùa đông \n phát âm : kiơ ul "
+견과류,견과류,”견과류 Hoa quả khô \n phát âm : kiơn koa "
+경찰차,경찰차,”경찰차 xe cảnh sát \n phát âm : kiơng tral sơ "
+벼,벼,”벼 xương \n phát âm : biơ "
+여우,여우,”여우 con cáo \n phát âm : yơ u "
+연,연,”연 con diều \n phát âm : yơn  "
+열기구,열기구,”열기구 khinh khí cầu \n phát âm : yơl ki ku "
+엽전,엽전,”엽전 đồng tiền cổ của Hàn Quốc \n phát âm : yơp chơn "
+과자,과자,”과자 đồ ăn vặt \n phát âm : koa cha "
+과학자,과학자,”과학자 nhà khoa học \n phát âm : koa hak cha "
+완두콩,완두콩,”완두콩 đậu Hà lan \n phát âm : oan tu không "
+완자,완자,”완자 thịt viên \n phát âm : oan cha "
+왕관,왕관,”왕관 vương miện \n phát âm : oang koan "
+왕비,왕비,”왕비 hoàng hậu \n phát âm : oang bi "
+왕자,왕자,”왕자 hoàng tử \n phát âm : oang cha "
+화살,화살,”화살 mũi tên \n phát âm : hoa sal "
+활,활,”활 cây cung \n phát âm : hoal "
+황금,황금,”황금 hoàng kim \n phát âm : hoang kưm "
+횃불,횃불,”횃불 ngọn đuốc \n phát âm : huêt bul "
+횡단보도,횡단보도,”횡단보도 vạch kẻ sang đường \n phát âm : huênh tan bô tô "
+뾰루지,뾰루지,”뾰루지 mụn nhọt \n phát âm : ppiô ru chi "
+뿌리다,뿌리다,”뿌리다 rắc \n phát âm : ppu ri ta "
+뿔테안경,뿔테안경,”뿔테안경 kính gọng nhựa \n phát âm : ppul thê an kiơng "
+휘파람,휘파람,”휘파람 huýt sáo \n phát âm : huy pha ram "
+흉가,흉가,”흉가 nhà ma \n phát âm : hiung ka "
+삐약삐약,삐약삐약,”삐약삐약 nói lung tung \n phát âm : ppi yak ppi yak "
+좌우,좌우,”좌우 trái phải \n phát âm : choa u "
+화가,화가,”화가 họa sĩ \n phát âm : hoa ka "
+화분,화분,”화분 chậu hoa \n phát âm : hoa bun "
+화요일,목요일,”화요일 thứ ba \n phát âm : hoa yô il "
+화장품,화장품,”화장품 mĩ phẩm \n phát âm : hoa chang phum "
+교통,교통,”교통 giao thông \n phát âm : kiô thông "
+요구르트,요구르트,”요구르트 sữa chua \n phát âm : yô ku rư thư "
+요리,요리,”요리 nấu ăn \n phát âm : yô ri "
+요요,요요,”요요 đồ chơi yo yo \n phát âm : yô yô "
+요정,요정,”요정 yêu tinh \n phát âm : yô chơng "
+용,용,”용 con rồng \n phát âm : yông "
+표,표,”표 phiếu \n phát âm : phiô  "
+표범,표범,”표범 báo đốm \n phát âm : phiô bơm "
+표창,표창,”표창 sự biểu dương \n phát âm : phiô trang "
+권총,권총,”권총 súng lục \n phát âm : kuơn trông "
+권투,권투,”권투 quyền Anh \n phát âm : kuơn thu "
+워낭,워낭,”워낭 chuông đeo cổ cho bò \n phát âm : uơ nang "
+워싱턴,워싱턴,”워싱턴 Wasington \n phát âm : uơ sing thơn "
+워커,워커,”워커 giày walker \n phát âm : uơ khơ "
+원숭이,원숭이,”원숭이 con khỉ \n phát âm : uơn sung i "
+원시인,원시인,”원시인 người nguyên thuỷ \n phát âm : uơn si in "
+원피스,원피스,”원피스 váy liền \n phát âm : uơn phi sư "
+월드컵,월드컵,”월드컵 World Cup \n phát âm : uơl tư khơp "
+훤칠하다,훤칠하다,”훤칠하다 cao ráo \n phát âm : huơn tril ha ta "
+훨훨,훨훨,”훨훨 rập rờn \n phát âm : huơl huơl "
+균,균,”균 vi khuẩn \n phát âm : kiun "
+귤,귤,”귤 quả quýt \n phát âm : kiul "
+듀엣,듀엣,”듀엣 sự song ca \n phát âm : tiu êt "
+슈퍼마켓,슈퍼마켓,”슈퍼마켓 super market \n phát âm : siu phơ ma khêt "
+슈퍼맨,슈퍼맨,”슈퍼맨 siêu nhân \n phát âm : siu phơ men "
+유괴,유괴,”유괴 sự bắt cóc \n phát âm : yu kuê "
+유령,유령,”유령 linh hồn \n phát âm : yu riơng "
+유리컵,유리컵,”유리컵 cốc thủy tinh \n phát âm : yu ri kơp "
+유월,유월,”유월 tháng sáu \n phát âm : yu uơl "
+튜브,튜브,”튜브 ống tuýp \n phát âm : thiu bư "
+휴대전화,휴대전화,”휴대전화 điện thoại \n phát âm : hiu te chơn hoa  "
+휴지,휴지,”휴지 giấy mềm \n phát âm : hiu chi "
+휴지통,휴지통,”휴지통 hộp giấy \n phát âm : hiu chi thông "
+팔월,팔월,”팔월 tháng tám \n phát âm : phal uơl "
+아기,아기,”아기 trẻ em \n phát âm : a i "
+안녕,an nyơng, chào,こんにちは
+안녕하세요,an nyơng ha sê yô,xin chào,おはようございます
+나,na,tôi,私
+너,nơ,bạn,お前
+나이,na i, tuổi,歳
+나라,na ra,đất nước,奈良
+이름,i rưm,tên,名前
+우리,u ri,chúng tôi,私たち
+학생,hak seng,học sinh ,学生
+사람,sa ram,người,ヒト
+아버지=아빠,a bơ chi - a ppa ,bố,お父さん=お父さん。
+어머니=엄마,ơ mơ ni - ơm ma,mẹ,母。
+아이,a i,em bé,愛
+여자,yơ cha,con gái,女
+남자,nam cha,con trai,男
+오빠,ô ppa,anh,お兄ちゃん
+언니,ơn ni,chị,姉ちゃん
+아저씨,a chơ ssi,chú,おじさん
+이모,i mô,cô,芋
+가족,ka chôk,gia đình,家族
+시계,si kiê,đồng hồ,時計
+책상,trec sang,bàn ,机
+해,he,mặt trời,害
+구름,ku rưm,mây,雲
+과자,koa cha,đồ ăn vặt,菓子
+고기,kô ki,thịt,肉
+바나나,ba na na,chuối,バナナ
+바지,ba chi,quần,ズボン
+옷,ôt,áo,衣服
+모자,mô cha,mũ,母子
+하나,ha na,1,一
+둘,tul,2,二
+셋,sêt,3,三
+넷,nêt,4,四
+다섯,ta sơt,5,五
+여섯,yơ sơt,6,六
+일곱,il kôp,7,七
+여덟,yơ tơl,8,八
+아홉,a hôp,9,九
+열,yơl,10,十
+얘기,ye ki,nói chuyện,話
+덥다,tơp ta,nóng,暑い
+춥다,trup ta,lạnh,寒い
+가수,ka su,ca sĩ,歌手
+의사,ưi sa,bác sĩ,医者
+노래,nô re,bài hát,歌
+화장,hoa chang,trang điểm,化粧
+화장품,hoa chang phum,mĩ phẩm,化粧品
+의자,ưi cha,ghế,椅子
+병원,biơng uơn,bệnh viện,病院
+상추,sang tru,rau xà lách,サンチュ
+병,biơng,bình,病気
+밤,bam,hạt dẻ,夜
+대추,te tru,táo đỏ,ナツメ
+유리,yu ri,thủy tinh,由利
+얼음,ơr ưm,đá lạnh,氷
+주름,chu rưm,nếp nhăn,皺
+눈썹,nun ssơp,lông mày,眉毛
+세탁기,sê thak ki,máy giặt,洗濯機
+가스,ka sư,gas,ガス
+개,ke,chó,犬
+고양이,kô yang i,mèo,猫
+새,se,chim,鳥
+토마토,thô ma thô,cà chua,トマト
+포도,phô tô,nho,ブドウ
+수박,su pac,dưa hấu,スイカ
+밥,bap,cơm,飯
+식사,sic sa,dùng bữa,食事
+커피,khơ phi,cafe,コーヒー
+차,tra,trà,車
+눈,nun,mắt- tuyết,目
+코,khô,mũi,コ
+입,ip,miệng,口
+얼굴,ơl kul,khuôn mặt ,顔
+안경,an kiêng,kính mắt,眼鏡
+머리,mơ ri,đầu,頭
+머리카락,mơ ri kha rac,tóc,髪の毛
+손,sôn,bàn tay,孫
+발,bal,chân,番
+팔,phal,cánh tay,八
+사과,sa koa,táo,リンゴ
+깎다,kkak ta,gọt,削る
+부엌,bu ơk,bếp ,台所
+닦다,ttac ta,đánh rửa,磨く
+이것,i kơt,cái này,これ
+저것,chơ kơt,cái kia,あれ
+그것,kư kơt,cái đó,それ
+먹다,mơc ta,ăn,食う
+마시다,ma si ta,uống,飲む
+집,chip,nhà,家
+걷다,kơt ta,đi bộ,歩く
+길,kil,đường đi,道
+가다,ka ta,đi,行く
+버스,bơ sư,xe bus,バス
+타다,tha ta,lên (xe),焦げる
+입다,ip ta,mặc,着る
+교실,kiô sil,phòng học,教室
+공부하다,kông bu ha ta,học,勉強する
+밖,bak,bên ngoài ,外
+놀다,nôl ta,vui chơi ,遊ぶ
+젓가락,chơt ka rak,đũa,箸
+텔레비전,thê lê bi chơn,ti vi,テレビ
+냉장고,neng chang kô,tủ lạnh,冷蔵庫
+열다,yơl ta,mở,開ける
+방,bang,phòng,部屋
+휴대폰,hiu te phôn,điện thoại,携帯
+지갑,chi kap,ví,財布
+컵,khơp,cốc,コップ
+그릇,kư rưt,bát,器
+포크,phô khư,dĩa,フォーク
+선글라스,sơn kư la sư,kính dâm,サングラス
+가구,kaku,đồ đạc,家具
+옷장,ôt chang,tủ quần áo,箪笥
+찜질방,jjim chil bang,phòng tắm xông hơi,蒸し部屋
+거실,kơ sil,phòng khách,居間
+소파,sô pha,sô pha,ソファー
+벌레,bơl lê,bọ,虫
+나무,na mu,cây,木
+학교,hak kiô,trường học,学校
+아파트,a pha thư,chung cư,マンション
+숟가락,sut ka rak,thìa,スプーン
+썩다,sơc ta,trộn ,腐る
+끝,kkưt,kết thúc,おしまい
+꽃,kkôt,hoa,花
+직업,chik ơp,nghề nghiệp,職業
+강,kang,sông,川
+울다,ul ta,khóc,泣く
+웃다,ut ta,cười,笑う
+달,tal,trăng,月
+비행기,bi heng ki,máy bay,飛行機
+잎,ip,lá cây,葉
+숲,sup,rừng,森
+토끼,thô kki,thỏ,ウサギ
+가위,ka uy,kéo ,はさみ
+침대,trim te,giường,ベッド
+회사원,huê sa uôn,nhân viên văn phòng,会社員
+선생님,sơn seng nim,cô giáo,先生
+기자,ki cha,kí giả,記者
+요리사,yô ri sa,đầu bếp,板前
+간호사,kan hô sa,y tá,看護婦
+고향,kô hiang,quê hương ,故郷
+남편,nam phiên,chồng,夫
+아내,a ne,vợ,妻
+국가,kuk ka,quốc gia,国家
+딸,ttal,con gái,娘
+할아버지,ha ra bơ chi,ông ,おじいさん
+할머니,hal mơ ni,bà,おばあちゃん
+건강,kơn kang,sức khỏe,健康
+연세,yơl sê,tuổi,延世
+동생,tông seng,em,弟
+장문,chang mun,cửa cổ,長文
+볼펜,bôl phên,bút chì,ボールペン
+지우개,chi u ke,cục tẩy,消しゴム
+연필,yơn phil,bút chì,鉛筆
+공책,kông trec,vở,公策
+사진,sa chin,ảnh,写真
+가방,ka bang,cặp sách,かばん
+쓰다,ssư ta,sử dụng,書く
+정리하다,chờng ri ha ta,dọn dẹp,整理する
+영화,yong hoa,phim,映画
+보다,bô ta,xem,見る
+파티,pha thi,party,パーティ
+여행,yơ heng,du lịch,旅行
+산책,san tréc,đi bộ,散歩
+등산,tưng san,leo núi,山登り
+아침,a trim,buổi sáng,朝
+점심,chơm sim,buổi trưa ,お昼
+저녁,chơ niơk,buổi tối,夕
+밤,bam,đêm,夜
+건물,kơn mul,tòa nhà,建物
+층,trưng,tầng,層
+사무실,sa mu sil,văn phòng,オフィス
+휴게실,hiu kê sil,phòng chờ,休憩室
+식당,sik tang,quán ăn,食堂
+은행,ưn heng,ngân hàng,銀行
+편의점,phiơn ưi chơm,cửa hàng tiện lợi,コンビニエンスストア
+우체국,u trê kuk,bưu điện,郵便局
+가게,ka kê,cửa hàng,店
+버스정류장,bơ sư chơng riu chang,điểm dừng xe buýt,バス停
+교통,kiô thông,giao thông,交通
+횡단보도,huênh tan bô tô,vạch sang đường,横断歩道
+막히다,mac khi ta,tắc,詰まる
+복잡하다,bôk chap ha ta,phức tạp,複雑だ
+사거리,sa kơ ri,ngã tư,射程
+신호등,sin hô tưng,đèn giao thông,信号灯
+건너가다,kơn nơ ka ta,bước qua,渡る
+건어편,kơn ơ phiên,phía đối diện,干し魚編
+지하보도,chi ha bô tô,đường hầm dành cho người đi bộ,地下歩道
+지하도로,chi ha tô rô,đường hầm chui,地下道路
+볶다,bôk ta,xào,いためる
+튀김,thuy kim,đồ chiên,天ぷら
+찌다,jji ta,hấp,蒸す
+삶다,sam ta,luộc,煮る
+찍다,jjik ta,chấm,写す
+만두,man tu,há cảo,ギョーザ
+김치찌개,kim tri jji ke,canh kim chi,キムチチゲ
+비빔밥,bi bim bap,cơm trộn,ビビンバ
+부치다,bu tri ta,rán,送る
+볶음밥,bôk kưm bap,cơm rang,チャーハン
+보통,bô thông,bình thường,普通
+운동,un tông,sự vận động,運動
+자주,cha chu,thường xuyên,度度
+무엇,mu ơt,cái gì,何
+재미있다,che mi it ta,thú vị,面白い
+재미없다,che mi ơp ta,không thú vị,つまらない
+좋아하다,chô a ha ta,thích,好む
+싶다,sip ta,muốn,したい
+배우다,be u ta,học,学ぶ
+가르치다,ka rư tri ta,dạy,教える
+달다,tal ta,ngọt,付ける
+쓰다,ssư ta,đắng,書く
+시다,si ta,chua,志田
+짜다,cha ta,mặn,編む
+싱겁다,sing kơp ta,nhạt,薄い
+맵다,mep ta,cay,辛い
+담백하다,tan bek ha ta,thanh đạm,淡白だ
+지방,chi bang,chất béo,脂肪
+탄수화물,than su hoa mul,cacbonhydrat,炭水化物
+상하다,sang ha ta,hỏng,傷つく
+유지원,yu chi uơn,mẫu giáo ,ユ·ジウォン
+초등학교,trô tưng hak kiôu,trường tiểu học,小学
+중학교,chung hak kiô,trường trung học cơ sở,中学校
+고등학교,kô tưng hak kiô,trường trung học phổ thông,高等学校
+대학교,te hak kiô,trường đại học,大学校
+개강하다,ke kang ha ta,khai giảng,開講する
+학기,hak ki,học kì,学期
+방학,bang hak,nghỉ giữa học kì,休み
+학번,hak bơn,số hiệu sinh viên,学番
+학년,hak niơn,năm học,学年
+전공,chơn kông,chuyên ngành,専攻
+앞,ap,trước,前
+뒤,tuy,sau,後
+옆,yơp,bên cạnh,横
+위,uy,trên,胃
+사이,sa i,ở giữa,佐井
+밑/아래,mit/ a re,dưới,下/下
+왼쪽,uên jjôc,bên trái,左側
+오른쪽,ô rưn jjôc,bên phải,右側
+번째,bơn jje,thứ,番目
+첫번째,trơt bơn jje,lần thứ nhất, はじめ
+한국,han kuk,Hàn Quốc,韓国
+태극기,the kưk ki,cờ thái cực,太極旗
+무궁화,mu kung hoa,quốc hoa của Hàn Quốc,ムクゲ
+한복,han bôk,trang phục truyền thống của Hàn Quốc ,韓服
+베트남,bê thư nam,Việt Nam,ベトナム
+중국,chung kuk,Trung Quốc,中国
+일본,il bôn,Nhật Bản,日本
+영국,yơng kuk,nước Anh ,英国
+미국,mi kuk,nước Mỹ,アメリカ合衆国
+호주,hô chu,nước Úc,豪州
+청바지,trơng ba chi,quần bò,ジーパン
+티셔츠,thi siơ trư,áo phông,Tシャツ
+셔츠,siơ trư,áo sơ mi,シャツ
+반바지,ban ba chi,quần đùi,半ズボン
+자켓,cha khêt,áo khoác jacket,ジャケット
+코트,khô thư,áo dạ,コート
+잠바,cham ba,áo khoác jumper,ジャンパー
+잠옷,cham ôt,áo ngủ,パジャマ
+원피스,uơn phi sư,váy liền,ワンピース
+치마,tri ma,chân váy,チマ
+약속,yak sôk,hứa hẹn,アポ
+티켓,thi khêt,ticket,チケット
+예약하다,yê yak ha ta,đặt chỗ trước (trả 1 nửa hoặc chưa trả),予約する
+예매하다,yê me ha ta,đặt chỗ trước ( đã trả hết tiền),前売りする
+팝콘,phap khôn,bỏng ngô,ポップコーン
+극장,kưk chang,nhà hát,劇場
+영화관,yơng hoa quan,rạp chiếu phim,映画館
+가로줄,ka rô chul,hàng ngang,横線
+세로줄,sê rô chul,hàng dọc,縦線
+자리,cha ri,chỗ ngồi,席
+친절하다,trin chơl ha ta,thân thiện,親切だ
+착하다,trak ha ta,hiền lành,善い
+내성적,ne sơng chơk,tính hướng nội  ,内省的
+외향성,uê sơng chơk,tính hướng ngoại,外向性
+수줍음을 타다,su chup ưm ưl tha ta,xấu hổ,恥ずかしがる
+부끄럽다,bu kkư rơp ta,ngại ngùng,恥ずかしい。
+창피하다,trang phi ha ta,xấu hổ,恥ずかしい
+귀찮다,quy tran ta,phiền phức,面倒臭い
+걱정하다,kơk chơng ha ta,lo lắng,心配する
+활발하다,hoal pal ha ta,hoạt bát,活発だ
+쉽다,suyp ta,dễ,易しい
+어렵다,ơ riơp ta,khó,難しい
+무겁다,mu kơp ta,nặng,重い
+가볍다,ka biơp ta,nhẹ,軽い
+깊다,kip ta,sâu,深い
+얕다,yat ta,nông,浅い
+두껍다,tu kkơp ta,dày,厚い
+얇다,yal ta,mỏng,薄い
+좁다,chôp ta,nhỏ hẹp,狭い
+넓다,nơl ta,rộng ,広い
+뒤다,tuy ta,chạy,後れる
+밀다,mil ta,đẩy,押す
+당기다,tang ki ta,kéo,引く
+기대다,ki te ta,tựa,もたれ掛かる
+기대하다,ki te ha ta,mong đợi,当て込む
+듣다,tưt ta,nghe,聞く
+잡다,chap ta,bắt,掴む
+냄새를 맡다,nem se rưl mat ta,ngửi mùi,においを嗅ぐ
+앉다,an ta,ngồi,座る
+긁다,kưk ta,gãi,掻く
+그러나,kư rơ na,nhưng ,しかし
+그렇다,kư rơt ta,như vậy,そうだ
+그리고,kư ri kô,và,それに。
+못하다,môt ha ta,không thể,できない
+모르다,mô rư ta,không biết,知らない
+생각하다,seng kak ha ta,suy nghĩ,考える
+알다,al ta,biết,知る
+어떤,ơ ttơn,cái nào,どんな
+통하다,thông ha ta,thông qua,通じる
+위하다,uy ha ta,để,大切だ
+경우,kiơng u,trường hợp,場合
+정도,chơng tô,mức độ ,精度
+다른것,ta rưn kơt,cái khác,異物
+다시,ta si,lại,もう一度
+함께=같이,ham kkê = kat i,cùng với,▲一緒に=一緒に
+의하다,ưi ha ta,do,因る
+여러,yơ rơ,những,諸諸
+누구,nu ku,ai,誰
+곳,kôt,nơi chốn,所
+시대,si te,thời đại,時代
+보이다,bô i ta,nhìn thấy,見える
+잡히다,chap hi ta,bị bắt,挙がる
+들리다,tưl li ta,nghe thấy,聞こえる
+열리다,yơl li ta,bị mở,開く
+깨지다,kke chi ta,bị vỡ,破れる
+팔리다,phal li ta,bị bán ,売れる
+예뻐지다,yê ppơ chi ta,trở nên đẹp hơn,きれいになる
+풀리다,phul li ta,được tháo gỡ,解ける
+끊기다,kkưn ki ta,bị ngắt ,切られる
+이용되다,i yoong tuê ta,được sử dụng,利用される
+미용실,mi yông sil,tiệm cắt tóc,美容室
+염색하다,y ơm sec ha ta,nhuộm,染める
+파마하다,pha ma ha ta,làm xoăn,パーマをかける
+피부관리,phi bu quan li,quản lí da,皮膚管理
+마사지를 하다,ma sa chi rưl ha ta,mát sa,マッサージをする
+브랜드,bư len tư,thương hiệu,ブランド
+멋쟁이,mơt cheng i,người sành điệu,洒落者
+메이크업,mê i khư ơp,makeup,メイクアップ
+성형수술,sơng hiơng su sul,phẫu thuật thẩm mĩ,整形手術
+최신 유행,truê sin yu heng,mốt mới nhất,最新流行
+등록하다,tưng rô k ha ta,đăng kí,登録する
+동아리,tông a ri,câu lạc bộ,サークル
+시험을 보다,si hơm ưl bô ta,thi,試験を受ける
+참여하다,tram yơ ha ta,tham gia,参加する
+반드시,ban tư si,nhất định,必ず
+토론하다,thô lôn ha ta,thảo luận,討論する
+언어,ơn ơ,ngôn ngữ ,言語
+자유,cha yu,tự do,自由
+특히,thưk hi,đặc biệt,特に
+모집하다,mô chip ha ta,tuyển chọn,募る
+색/색깔,sek/ sek kkal,màu/ màu sắc,色
+파란색,pha ran sek,màu xanh dương,青色
+빨간색,ppal kan sek,màu đỏ,赤色
+보라색,bô ra sek,màu tím,紫色
+노란색,nô ran sek,màu vàng,黄色
+분홍색,bun hông sek,màu hồng,ピンク色
+밤색,bam sek,màu nâu,栗色
+까만색,kka man sek,màu đen,黒色
+하얀색,ha yan sek,màu trắng,白色
+회색,huê sek,màu xám,灰色
+초록색,trô rôk sek,màu xanh lá cây,緑色
+오렌지색,ô rên chi sek,màu cam,オレンジ色
+현재,hiơn che,hiện tại,現在
+지금,chi k ưm,bây giờ,今
+행사,heng sa,sự kiện,行事
+봉사활동,bông sa hoal tông,hoạt động từ thiện,奉仕活動
+기업,ki ơp,doanh nghiệp,企業
+축제,truk chê,lễ hội,祝祭
+통역하다,thông yơk ha ta,thông dịch,通訳する
+환영하다,hoan yong ha ta,hoan nghênh,歓迎する
+회원,huê uơn,hội viên,会員
+설명하다,sơl miêng ha ta,giải thích,説明する
+성격이 좋다,sơng kiơk i chôt ta,tính tốt,性格がいい
+인기가 있다,in ki ka it ta,có tiếng,人気がある
+사귀다,sa quy ta,kết (bạn),付き合う
+부탁하다,bu thak ha ta,nhờ vả,頼む
+겁이 나다,kơp i na ta,sợ,怖くなる
+포기하다,phô ki ha ta,bỏ cuộc,あきらめる
+고민,kô min,lo lắng,苦悩
+느끼다,nư kki ta,cảm nhận,感じる
+물론,mul lôn,tất nhiên,もちろん。
+요약,yô yak,tóm tắt,要約
+건강하다,k ơn kang ha ta,khỏe mạnh,健康だ
+피곤하다,phi k ôn ha ta,mệt mỏi,疲れた
+심심하다,sim sim ha ta,buồn chán,退屈だ
+힘들다,him tưl ta,mệt mỏi,苦労する
+쉬다,suy ta,nghỉ ngơi,休む
+잠을 자다,cham ưl cha ta,ngủ ,眠る
+규칙,kiu trik,quy tắc,規則
+불규칙,bul kiu trik,bất quy tắc,不規則
+무조건,mu chô kơn,vô điều kiện,無条件
+만족하다,man chôk ha ta,mãn nguyện,満足する
+어리다,ơ ri ta,nhỏ tuổi,幼少だ
+젊다,chơm ta,trẻ,若い
+늙다,nưk ta,già ,老い込む
+다이어트,ta i ơ thư,giảm cân,ダイエット
+유지하다,yu chi ha ta,duy trì,保つ
+신나다,sin na ta,hứng thú,興がわく
+암,am,ung thư,癌
+답답하다,tap tap ha ta,tức(ngực) khó chịu,もどかしい
+몸이 약하다,môm i yak ha ta,cơ thể yếu ,体が弱い
+과로하다,qua rô ha ta,làm việc quá độ,過労だ
+연략,yơn lak,liên lạc,年略
+변경,biơn kiơng,biến đổi,変更
+가능하다,ka nưng ha ta,có khả năng,できる
+농담,nông tam,nói đùa,濃淡
+면허증,miên hơ chưng,bằng lái xe,免許証
+사정,sa chơng,việc riêng ,事情
+솔직히,sôl chik hi,thành thật,正直
+수첩,su trớp,hấp thụ,手帳
+실력,sil liơk,năng lực,実力
+추천하다,tru trơn ga ta,đề cử,推薦する
+현명하다,hiên miơng ha ta,khôn ngoan,賢明だ
+월급,uơl kưp,lương tháng,月給
+실망하다,sil mang ha ta,thất vọng,失望する
+교환하다,kiô hoan ha ta,đổi hàng,取り交わす
+환불하다,hoan bul ha ta,trả hàng (lấy lại tiền),払い戻す
+어울리다,ơ ul li ta,hợp,似合う
+매장,me chang,cửa hàng,埋蔵
+실수,sil su,lỗi,手違い
+이미,i mi,trước đó,イミ
+습관,sưp quan,thói quen,習慣
+상품,sang phum,sản phẩm,商品
+마음에 들다,ma ưm ê tưl ta,vừa ý,気に入る
+주문하다,chu mun ha ta,đặt hàng ,注文する
+판매하다,phan me ha ta,bán hàng,販売する
+구매하다,ku me ha ta,mua hàng,買い求める
+할부,hal bu,trả góp,割賦
+일시불,il si bul,trả 1 lần,一時払い
+이상,i sang,lạ,以上
+얼룩,ơl luk,vết bẩn,斑
+불만,bul man,bất mãn,不満
+소비자,sô bi cha,người mua hàng,消費者
+서비스,sơ bi sư,dịch vụ,サービス
+영수증,yong su chưng,giấy thanh toán,領収書
+쇼핑센터,siô phing sên thờ,trung tâm mua sắm,ショッピングセンター
+할인매장,hal in me chang,cửa hàng giảm giá,割引売り場
+배송하다,be sông ha ta,chuyển hàng,配送する
+구멍,ku mơng,lỗ thủng,穴
+포인트,phô in thư,điểm tích lũy,ポイント
+적립하다,chơk lip ha ta,tích điểm,積立てる
+주의하다,chu i ha ta,chú ý,注意する
+정장,chơng chang,trang phục sang trọng,正装
+속옷,sôk ôt,áo trong,下着
+교북,kiô buk,đồng phục ,教北
+질,chil,chất,質
+배송료,bư sông riô,phí vận chuyển,配送料
+사이즈,sa i chư,size,サイズ
+고객,kô kek,khách hàng,顧客
+동시에,tông si ê,cùng lúc,同時に
+수선하다,su sơn ha ta,sửa chữa,修繕する
+보장하다,bô chang ha ta,bảo hành,保障する
+요리,yô ri,nấu ăn,料理
+한식,han sik,món Hàn,韓食
+양식,yang sik,món Âu,洋式
+중식,chung sik,món Trung,中食
+간식,kan sik,bữa phụ,おやつ
+입맛에 맞다,ip mat ê mat ta,vừa miệng,口に合う
+간을 보다,kan uwl bô ta,thử mặn nhạt,塩加減を見る
+매력적,me riơk chơk,có mị lực,魅力的
+섭취하다,sơp truy ha ta,hấp thụ,摂る
+대부분,te bu bun,phần lớn,大部分
+고추장,kô tru chang,tương ớt,コチュジャン
+고추가루,kô tru ka ru,ớt bột,とうがらし粉
+된장,tuên chang,đậu nành lên men,味噌
+간장,kan chang,xì dầu,醤油
+액젓,ek chơt,nước mắm,阿久塩辛
+김치,kim tri,kimchi,キムチ
+기름,ki rưm,dầu,油
+참기름,tram ki rưm,dầu vừng,ごま油
+식품,sik phum,thực phẩm,食品
+영양,yong yang,dinh dưỡng,栄養
+갈비탕,kal bi thang,canh xương bò,カルビタン
+삼계탕,sam kiê thang,gà hầm sâm,参鶏湯
+순두부찌개,sun tu bu jji ke,canh đậu non,スンドゥブチゲ
+찹쌀,trap ssal,gạo nếp,もち米
+뼈해장국,ppia he chang kuk,canh xương lợn,骨ヘジャンクッ
+순대국,sun te kuk,canh lòng lợn,殉大国
+된장찌개,tuên chang jji ke,canh đậu tương,味噌鍋
+김치찌개,kim tri jji ke,canh kim chi,キムチチゲ
+해산물,he san mul,hải sản,海産物
+생선조림,seng sơn chô rim,cá rim,魚の煮付け
+향,hiang,mùi hương,香
+부드럽다,bu tư rơp ta,mềm,軟らかい
+닥닥하다,tak tak ha ta,cứng,立ち寄る
+질기다,chil ki ta,dai,強い
+바삭하다,ba sak ha ta,giòn,かりっとする
+싸먹다,ssa mơk ta,ăn gói,くるむ
+주무르다,chu mu rư ta,bóp,揉む
+육수,yuk su,nước hầm,陸水
+소스,sô sư,nước sốt,ソース
+물엿,mul yơt,mạch nha,水あめ
+현금,hiơn kưm,tiền mặt,現金
+동전,tông chơn,tiền xu,銅貨
+지폐,chi phiê,tiền giấy,紙幣
+수표,su phiêu,ngân phiếu,切手
+잔돈,chan tôn,tiền lẻ,小銭
+통장,thông chang,sổ tài khoản,通帳
+도장,tô chang,con dấu,塗装
+신분증,sin bun chưng,chứng minh thư,身分証
+카드,kha tư,thẻ ,カード
+계좌번호,kiê choa bơn hô,số tài khoản,口座番号
+비밀번호,bi mil bơn hô,số bí mật,パスワード
+현금자동입출금기(ATM기),cây rút tiền,cây ATM,現金自動預け払い機(ATM)
+입금,ip kưm,nạp tiền,入金
+출금,trul kưm,rút tiền,出金
+계좌이체,kiê choa i trê,chuyển tiền ,振込み
+잔액조회,chan ek chô huê,kiểm tra tiền dư,残額照会
+통장정리,thông chang chơng ri ,chỉnh lý sổ tiết kiệm, 通帳定理
+대출하다,te trul ha ta,cho vay,貸し出す
+환전하다,hoan chơn ha ta,đổi tiền,両替する
+수수료,su su riô,tiền phí,手数料
+화면,hoa miơn,màn hình,画面
+입력,ip riơk,nhập,入力
+올바르다,ôl ba rư ta,phù hợp,正しい
+신청서,sin trơng sơ,phiếu đăng kí,申請書
+용돈,yông tôn,tiền tiêu cá nhân,お小遣い
+복습,bôk sưp,ôn tập ,復習
+연습,yơn sưp,luyện tập ,練習
+떨어지다,ttơl ơ chi ta,rơi,落ちる
+낭비하다,nang bi ha ta,lãng phí,浪費する
+연구개발,yơn ku ke bal,nghiên cứu phát triển,研究開発
+결과,kiơl qua,kết quả ,結果
+예를 들어,yê rưl tưl ơ,cho ví dụ ,たとえば
+훌륭하다,hul liung ha ta,vĩ đại,偉いぞ。
+인형,in hiơng,búp bê,人形
+장점,chang chơm,ưu điểm,長所
+단점,tan chơm,nhược điểm,短所
+숨기다,sum ki ta,giấu,隠す
+맡기다,mat ki ta,kí gửi,預ける
+거짓말,kơ chit mal,lời nói dối,うそ
+참다,tram ta,nhịn,こらえる
+자유롭다,cha yu rôp ta,tự do,自由だ
+떨리다,ttơl li ta,run,震える
+게으르다,kê ư rư ta,lười,怠ける
+열심하다,yơl sim ha ta,chăm chỉ ,熱心だ
+급하다,kưp ha ta,gấp,急ぐ
+믿음,mit tưm,niềm tin,信心
+밝다,bak ta,sáng,明るい
+어둡다,ơ tup ta,tối,暗い
+다양하다,ta yang ha ta,đa dạng,多様だ
+잃어버리다,i rơ bơ ri ta,rơi mất,失う
+넘어지다,nơm mơ chi ta,ngã,転ぶ
+잘못하다,chal môt ha ta,làm sai,誤る
+찢어지다,jjit chơ chi ta,làm rách,破れる
+문제가 생기다,mun chê ka seng ki ta,phát sinh vấn đề,問題が生じる
+사과하다,sa qua ha ta,tạ lỗi,謝る
+잊어버리다,ich chơ bơ ri ta,quên,忘れる
+헷갈리다,hêt kal li ta,nhầm lẫn,紛らわしい
+깜빡하다,kkam ppak ha ta,quên,うっかりする
+갑자기,kap cha ki,đột nhiên,突然
+곰곰이,kôm kôm hi,tỉ mỉ,じっくり
+과제,qua chê,bài về nhà,課題
+글씨,kưl ssi,chữ viết,字
+기억하다,ki ơk ha ta,ghi nhớ,覚える
+돌려주다,tôl liơ chu ta,trả lại,返す
+바르다,ba rư ta,đúng,塗る
+보고하다,bô kô ha ta,báo cáo,報告する
+살펴보다,sal phiơ bô ta,xem xét,目を配る
+어쩔 수 없다,ơ jjơl su ơp ta,k còn cách nào khác ,仕方が無い
+적응하다,chơk ưng ha ta,thích ứng ,適応する
+품질,phum chil,chất lượng,品質
+표시하다,phiêu si ha ta,biểu thị,印す
+팍악하다,pha ak ha ta,nắm bắt vấn đề,粗暴だ
+대답하다,te tap ha ta,trả lời,答える
+개인적,ke in chơk,ích kỉ,個人的
+알아보다,a ra bô ta,tìm hiểu,見分ける
+반복하다,ban bôk ha ta,lặp lại,繰り返す
+반말,ban mal,nói trống không,ぞんざいな言葉
+변명하다,biơn miơng ha ta,biện minh,弁解する
+찢다,jjit ta,xé,引き裂く
+아무나,a mu na,bất cứ ai,アムナ
+아무거나,a mu kơ na,bất cứ cái gì,何でも
+아무 데나,a mu tê na, bất cứ đâu,どこにでも
+아무 때나,a mu tte na,bất cứ khi nào,いつでも
+만약,man yak,nếu như,若し
+엘리베이터,êl li bê i thư,thang máy ,エレベーター
+해결되다,he kiơl tuê ta,giải quyết,纏まる
+제공하다,chê kông ha ta,đưa ra,供する
+전망,chơn mang,triển vọng,展望
+파손되다,pha sôn tuê ta,bị phá hủy,破損する
+원룸,uơn rum,phòng đơn,ワンルーム
+월세,u ơn sê,thuê theo tháng,月貰
+전세,chơn sê,thuê theo năm,貸し切り
+빌라,bil la,nhà vila,ビラ
+부동산,bu tông san,bất động sản,不動産
+고시원,k ô si u ơn,nhà thuê cho người ôn thi,考試院
+자취,cha truy,thuê trọ,自炊
+계약서,kiê yak sơ,hợp đồng,契約書
+계약금,kiê yak k ưm,tiền hợp đồng,契約金
+하숙집,ha suk chip,nhà trọ bao ăn,下宿屋
+이사하다,i sa ha ta,chuyển nhà,引越す
+이삿짐,i sat chim,đồ đạc khi chuyển nhà,引越しの荷物
+주차장,chu tra chang,bãi đỗ xe,駐車場
+난방,nan bang,phòng sưởi,暖房
+냉방,nưng bang,phòng điều hòa,冷房
+관리비,quan li bi,phí quản lí,共益費
+보험가입,bô hơm ka ip,đăng kí bảo hiểm,保険加入
+세제,sê chê,bột giặt,洗剤
+이삿짐센터,i sat chim sên thơ,trung tâm chuyển đồ,引っ越し屋さん
+주택,chu thek,khu dân cư,住宅
+보내기,bô ne ki,gửi,送り
+받기,bat ki,nhận,受取
+검색하다,k ơm sek ha ta,tìm kiếm,検索する
+홈페이지,hôm phê i chi,trang chủ,ホームページ
+동영상,tông yong sang,video,動画
+댓글,tet kưl,bình luận ,コメント
+전달하다,chơn tal ha ta,chuyển tiếp,伝達する
+복사하다,bôk sa ha ta ,copy,複写する
+프린터,phư rin thư,máy in,プリンター
+인쇄하다,in suê ha ta,in ,刷る
+삭제하다,sak chê ha ta,xóa bỏ,削除する
+저장하다,chơ chang ha ta,ghi nhớ,貯蔵する
+마무리하다,ma mu ri ha ta,kết thúc,仕上げる
+이메일 주소,i mê il chu sô,địa chỉ email,Eメールアドレス
+보고서 작성,bô kô sơ chak sơng,làm báo cáo,報告書作成
+설문조사,sơl mun chô sa,điều tra phỏng vấn ,アンケート
+참고자료,tram kô cha riô,tư liệu tham khảo,参考資料
+게시판,kê si phan,bảng thông báo,掲示板
+사이트,sa i thư,trang web,サイト
+글씨 모양,kưl ssi mô yang,phông chữ,字形
+각종,kak chông,chủng loại,各種
+개발하다,ke bal ha ta,phát triển,開発する
+교육자,kiô yuk cha,nhà giáo dục,教育者
+구체적,ku trê chơk ,tính cụ thể,具体的
+기도,ki tô,cầu nguyện,企図
+교회,ki ô huê,nhà thờ,教会
+몸무게,môm mu kê,cân nặng,体重
+분야,bun ya,phần,分野
+안내하다,an ne ha ta,thông báo,案内する
+적합하다,chơk hap ha ta,thích hợp,適だ
+협동성,hiơp tông sơng,tính hợp tác,協同性
+손톱,sôn thôp,móng tay,爪
+실패하다,sil phe ha ta,thất bại,失敗する
+노력하다,nô riơk ha ta,nỗ lực,努力する
+작가,chak ka,tác giả,作家
+장래희망,chang re hi mang,hi vọng trong tương lai,将来希望
+치료하다,tri riô ha ta,trị liệu,治療する
+진로,chin lô,bước tiến trong tương lai,進路
+기부를 하다,ki bu rưl ha ta,quyên góp ,寄付をする
+성공하다,sơng kông ha ta,thành công,成功する
+장애인,chang e in,người tàn tật,障害者
+양로원,yang rô uơn,viện dưỡng lão,養老院
+고아원,kô a uơn,viện trẻ mồ côi,孤児院
+장애인 복지시설,chang e in bôk chi si sơl,thiết bị phục vụ người tàn tật,障害者福祉施設
+최초,truê trô,đầu tiên,最初
+평생,phiơng seng,bình sinh,一生
+진학하다,chin hak ha ta,học lên cao,進学する
+성공 비결,sơng kông bi kiơl,bí quyết thành công,成功の秘訣
+꿈을 이루다,kkum ưl i ru ta,đạt được giấc mơ,夢を叶う
+용기를 가지다,yông ki rưl ka chi ta,có dũng khí,勇気を持つ
+대통령,te thông riơng,tổng thống,大統領
+연예인,yơn yê in,nghệ sĩ,芸能人
+외우다,uê u ta,học thuộc lòng,覚える
+각각,kak kak từng cái,mỗi,各々
+배경,be kiơng,bối cảnh,背景
+사투리,sa thu ri,tiếng địa phương,方言
+실생활,sil seng hoal,cuộc sống thực tế,実生活
+유치하다,yu tri ha ta,ấu trĩ,幼稚だ
+자연스럽게,cha yơn sư rơp ta,một cách tự nhiên,自然に
+작품,chak phum,tác phẩm,作品
+제한하다,chê han ha ta,hạn chế,限る
+배우,be u,diễn viên,役者
+탤런트,thel lơn thư, người nổi tiếng,タレント
+영화 감독,yong hoa kam took,đạo diễn phim,映画監督
+주인공,chu in kông,nhân vật chính,主人公
+장면,chang miơn,cảnh phim,場面
+줄거리,chul kơ ri,cốt truyện,筋書
+배경음악,be kiơng,nhạc nền,背景音楽
+연기를 잘하다,yơn ki rưl chal ha ta,diễn xuất tốt,演技がうまい
+촬영하다,troal yong ha ta,quay phim,撮影する
+드라마,tư ra ma,phim hàn quốc,ドラマ
+공포 영화,kông phô yong hoa,phim kinh dị,ホラー映画
+액션 영화,ek siơn yong hoa,phim hành động,アクション映画
+멜로 영화,mêl lô yong hoa,phim tâm lý,メロ映画
+코미디 영화,khô mi ti yong hoa,phim hài,コメディー映画
+만화영화,man hoa yong hoa,phim hoạt hình,漫画映画
+전쟁영화,chơn cheng yong hoa,phim chiến tranh,戦争映画
+공상과학영화,k ông san koa hak yong hoa,phim khoa học viễn tưởng,空想科学映画
+심야영화,sim ya yong hoa,phim chiếu lúc nửa đêm,深夜映画
+시사회,si sa huê,lễ ra mắt phim,試写会
+매표소,me phiô sô,quầy vé,切符売り場
+회,huê,tập (phim),回
+감동적이다,kam tông chơk i ta,cảm động,感動的だ
+끔찍하다,kưm jjik ha ta,kinh khủng,無残だ
+폭력적이다,phôk liơk chơk i ta,bạo lực,暴力的だ
+인상적이다,in sang chơk i ta,ấn tượng,印象的だ
+기억에 남다,ki ơk ê nam ta,đáng nhớ,記憶に残る
+창립,trang lip,sáng lập,創立
+괴물,kuê mul,quái vật,怪物
+매진되다,me chin tuê ta,bán hết,売り切れる
+공공장소,kông kông chang sô,nơi công cộng,公共場所
+공동생활,kông tông seng hoal,sinh hoạt chung,共同生活
+공연장,kông yơn chang,nơi biểu diễn,公演場
+대중교통,te chung kiô thông,giao thông công cộng,大衆交通
+무리하다,mu li ha ta,vô lý,無理だ
+번호표,bơn hô phiô,phiếu ghi số (để chờ đến lượt),番号札
+비밀,bi mil,bí mật,内緒
+수저,su chơ,bộ thìa đũa,手著
+악수,ak su,bắt tay,握手
+양보하다,yang bô ha ta,nhượng bộ,譲歩する
+이어폰,i ơ phôn,tai nghe,イヤホン
+진동,chin tông,chấn động,振動
+창피하다,trang phi ha ta,xấu hổ,恥ずかしい
+예절,yê chơl,lễ nghi,礼節
+예절 바르다,yê chơl ba rư ta,đúng lễ phép,礼節正しい
+실례가 되다,sil lê ka tuê ta,thất lễ,実例になる
+예의에 어긋나다,yê ưi ê ơ kưt na ta,vô lễ,礼儀に反する
+방해하다,bang he ha ta,gây cản trở,邪魔する
+높임말,nôp in mal,kính ngữ,高下
+순서대로,sun sơ te rô,theo thứ tự,順に
+줄을 서다,chul ưl sơ ta,xếp hàng,並ぶ
+기본,ki bôn,cơ bản,基本
+인정하다,in chơng ha ta,thừa nhận,認める
+존경하다,chôn kiơng ha ta,tôn kính,尊敬する
+껌,kkơm,kẹo cao su,ガム
+씹다,ssip ta,nhai,噛む
+집안일을 하다,chip an il rưl ha ta,làm việc nhà,家事をする
+다리미,ta ri mi,bàn là,アイロン
+손빨래,sôn ppal le,giặt tay,手洗い
+빨래를 하다,ppal le rưl ha ta,giặt giũ,洗濯物をする
+세탁기를 돌리다,sê thak ki rưl tol li ta,mở máy giặt lên,洗濯機を回す
+널다,nơl ta,phơi (quần áo),干す
+개다,ke ta,gấp (quần áo),練る
+다리다,ta ri ta,ủi (quần áo),橋田
+대청소,te trơng sô,tổng vệ sinh,大掃除
+빗자루,bit cha ru,cái chổi,ほうき
+먼지떨이,mơn chi ttơl ki,cây phất trần,ほこり落とし
+걸레,kơl lê,cái giẻ,雑巾
+분리수거,bun li su kơ,phân loại rác thải,分離収去
+쓸다,sseul da,quét, 掃く
+털다,thơl ta,giũ,打払う
+치우다,tri u ta,thu dọn,片付ける
+돌보다,dol bo da,kính lúp, 面倒を見る
+때,tte,khi,時
+미루다,mi ru ta,hoãn lại,持ち越す
+미혼,mi hôn,chưa kết hôn,未婚
+뿌리다,ppu ri ta,rắc,蒔く
+상상,sang sang,sự tưởng tượng,想像
+성분,sơng bun,thành phần,成分
+소독제,sô tôk chê,chất tẩy,消毒剤
+수입,su ip,nhập khẩu,収入
+수출,su trul,xuất khẩu,輸出
+어지럽다,ơ chi rơp ta,chóng mặt,目まいがする
+엉망이다,ơng mang i ta,lộn xộn,めちゃくちゃだ
+인식,in sik,nhận thức,認識
+전문화,chơn mun hoa,chuyên môn hóa,専門化
+책임,trek im,trách nhiệm,責任
+챙기다,treng ki ta,thu vén,取りそろえる
+첫눈,trơt nun,cái nhìn đầu tiên,初雪
+당연히,tang yơn hi,một cách đương nhiên,当然
+이루어지다,i ru ơ chi ta,tạo nên,成る
+차이가 있다,tra i ka it ta,có sự khác nhau,差がある
+반대로,ban te rô,trái nghĩa,逆に
+여전히,yơ chơn hi,trước đây,相変わらず
+기쁘다,ki ppư ta,vui vẻ,うれしい
+행복하다,heng bôk ha ta,hạnh phúc,幸福だ
+기념일,ki niơm il,ngày kỷ niệm,記念日
+기분전환,ki bun chơn hoan,thay đổi không khí,気分転換
+분위기,bun uy ki,bầu không khí,雰囲気
+분명하다,bun miơng ha ta,rõ ràng,明白だ
+사망률,sa mang ryul,tỷ lệ tử vong,死亡率
+심장병,sim chang biơng,bệnh tim,心臓病
+안내 창구,an ne trang ku,quầy hướng dẫn,案内窓口
+용기,yông ki,dũng khí,勇気
+물가,mul ka,vật giá,水辺
+중고품,chung kô phum,đồ cũ,中古品
+관리사무소,koan li sa mu sô,văn phòng ban quản lý,管理事務所
+구청,ku trơng,chính quyền khu vực,区役所
+출입국관리사무소,trul ip kuk koan li sa mu sô,phòng quản lý xuất nhập cảnh,出入国管理事務所
+긴급 전화,kin kưp chơn hoa,điện thoại khẩn,緊急電話
+가스 요금,ka sư yô kưm,tiền ga,ガス料金
+수도 요금,su tô y ô kưm,tiền nước,水道料金
+전기 요금,chơn ki yô kưm,tiền điện,電気料金
+쓰레기 분리 배출,ssư rê ki bun li be trul,gom rác theo từng loại,ごみ分別排出
+종량제 봉투,chông riang chê bông thu,túi đựng rác ,従量制袋
+재활용 쓰레기,che hoal yông ssư rê ki,rác tái chế,リサイクルごみ
+단수,tan su,cắt nước,断水
+정전,chơng chơn,cắt điện,静電
+신고,sin kô,khai báo,申告
+전화 개통,chơn hoa ke thông,hòa mạng điện thoại,電話の開通
+응급 환자,ưng kưp hoan cha,bệnh nhân cấp cứu,応急患者
+구조 요청,ku chô yô trơng,yêu cầu cứu trợ,救助要請
+농수산물,nông su sa mul,sản phẩm nông thủy sản,農水産物
+대량,te riang,số lượng lớn,大量
+생활 지원,seng hoal chi uơn,hỗ trợ sinh hoạt,生活支援
+약재,yak che,dược liệu,薬剤
+연장하다,yơn chang,gia hạn,延びる
+유효기간,yu hiô ki kan,thời hạn có hiệu lực,有効期間
+채용 정보,tre yông chơng bô,thông tin tuyển dụng,採用情報
+이력서,i riơk sơ,lý lịch,履歴書
+졸업 증명서,chôl ơp chưng miơng sơ, bằng tốt nghiệp,卒業証明書
+성적 증명서,sơng chơk chưng miơng sơ,bảng điểm,成績証明書
+경력 증명서,kiêng riơk chưng miơng sơ,giấy chứng nhận kinh nghiệm,経歴証明書
+자기소개서,cha ki sô ke sơ,bản giới thiệu bản thân,自己紹介書
+사무직,sa mu chik,công việc hành chính,事務職
+전문직,chơn mun chik,công việc chuyên môn,専門職
+기능직,ki nưng chik,công việc kỹ thuật,機能職
+영업직,yơng ơp chik,công việc kinh doanh,営業職
+신입 사원,sin ip sa uơn,nhân viên mới,新入社員
+경력 사원,kiơng sa uơn,nhân viên lâu năm,経歴社員
+정규 사원,chơng kiu sa uơn,nhân viên chính thức,正規社員
+인턴 사원,in thơn sa uơn,nhân viên thử việc,インターン社員
+인사 담당자,in sa tam tang cha,người phụ trách nhân sự,人事担当者
+사원 모집,sa uơn mô chip,tuyển nhân viên,社員募集
+공공기관,kông kông ki koan,cơ quan công cộng,公共機関
+필기시험을 보다,phil ki si hơm ưl bô ta,thi viết,筆記試験を受ける
+면접시험을 보다,miơn chơp si hơm ưl bô ta,thi vấn đáp,面接試験を受ける
+사본,sa bôn,bản sao photo,写本
+진급하다,chin kưp ha ta thăng cấp,lên chức,進級する
+창업,trang ơp,sáng nghiệp,創業
+홍보하다,hông bô ha ta,quảng bá,広報する
+광고하다,koang koo ha ta,quảng cáo ,広告する
+가스레인지,ka sư lê in chi,bếp ga,ガスレンジ
+교체하다,kiô trê ha ta,thay,入れ替える
+기능,ki nưng,kỹ năng,機能
+망가지다,mang ka chin ta,bị hỏng,壊す
+멈추다,mơm tru ta,dừng lại,止まる
+메모리 카드,mê mô ri kha tư,thẻ nhớ,メモリーカード
+설정하다,sơl chơng ha ta,cài đặt,設定する
+소비자 상담실,sô bi cha sang tam sil,phòng tư vấn khách hàng,消費者相談室
+싱크대, sing khư te,chậu rửa chén,流し台
+물을 쏟다,(mul) sôt ta,đổ (nước),水を傾ける
+안심하다,an sim ha ta,an tâm,安心する
+음량,ưm riang,âm lượng,音量
+장판,trang phan,tấm trải sàn,掌板
+충분하다,trung bun ha ta,đủ,十分だ
+충전기,trung chơn ki,sạc pin,充電器
+흘리다,hưl li ta,chảy ra,零す
+전원,chơn uơn,nguồn điện,田園
+버튼,bơ thưn,phím,ボタン
+스위치,sư uy tri,công tắc,スイッチ
+부품,bu phum,phụ tùng,部品
+배터리,be thơ ri,pin,バッテリー
+콘센트,khôn sên thư,ổ cắm điện,コンセント
+플러고,phưl lơ kô,phích cắm điện,フラゴ
+리모컨,li mô khơn,cái điều khiển ,リモコン
+휴대전화가 꺼지다,hiu te chơn hoa ka kkơ chi ta,điện thoại bị tắt,携帯電話が切れる
+불이 안켜지다,bul i an khiơ chi ta,đèn không được bật,火が止まらない
+버튼이 안 눌러지다,bơ thưn i an nul lơ chi ta,nút không ấn được,ボタンが押されない
+창문이 깨지다,trang mun i kke chi ta,cửa sổ bị vỡ,窓が割れる
+전기가 끊기다,chơn ki ka kkưn ki ta,bị ngắt điện,電気が切れる
+문이 안 잠기다,mun i an cham ki ta,cửa không khoá được,戸が閉まらない
+부품을 바꾸다,bu phum ưl ba kku ta,thay phụ tùng,部品を取り替える
+화면이 흔들리다,hoa miơn i hưn tưl li ta,màn hình bị rung,画面が揺れる
+못이 빠지다,môt si ppa chi ta,rơi mất đinh,池が抜ける
+배터리가 다되다,be thơ ri ka ta tuê ta,hết pin,バッテリーがあがる
+수리하다,su ri ha ta,sửa chữa,修理する
+고치다,kô tri ta,sửa chữa,直す
+제품 설명서,chê phum sơl miơng sơ,hướng dẫn sử dụng,製品説明書
+품질 보증서,phum chil bô chưng sơ,phiếu bảo đảm chất lượng,品質保証書
+견과류,kiơn koa riu,trái, hạt phơi khô,堅果類
+곡식,kôk sik,ngũ cốc,穀食
+오곡밥,ô kôk bap,cơm ngũ cốc,五穀飯
+세뱃돈,sê bet tôn,tiền lì xì,お年玉
+세배를 하다,sê be rưl ha ta,lạy chào ngày tết,年始回りをする
+차례를 지내다,tra rê rưl chi ne ta,lễ cúng tổ tiên,儀式を行う
+보름달,bô rưm tal,trăng rằm,十五夜の月
+설날,sơl nal,tết dương lịch,お正月
+주석,chu sơk,trung thu,酒席
+단오제,tan ô chê,lễ tết Đoan Ngọ,端午祭
+찜질방,jjim chil bang, phòng tắm hơi,蒸し部屋
+씨름,ssi rưm,đấu vật,相撲
+줄다리기,chul ta ri ki,chơi kéo co,綱引き
+그네뛰기,kư nê ttuy ki,chơi đánh đu,クネトゥギ
+도전하다,tô chơn ha ta,thử thách,挑戦する
+돌아보다,tôl a bô ta,nhìn lại,振り返る
+마라톤,ma ra thôn,chạy ma-ra-tông,マラソン
+물음,mu rưm, câu hỏi,問いかけ
+방안,bang an,phương án,方案
+볼링,bôl ling,bóng bowling ,ボーリング
+장비,chang bi,trang bị,装備
+체험,trê hơm,trải nghiệm,体験
+사회 활동,sa huê hoal tông,hoạt động xã hội,社会活動
+관람,koan lam,xem,観覧
+활용하다,hoal yông,áp dụng,活用する
+자기 계발,cha ki kiê bal,phát triển bản thân,自己啓発
+체력을 키우다,trê riơk ưl khi u ta,nuôi dưỡng thể lực,体力を養う
+능률,nưng rưl,năng suất,能率
+또박또박,ttô pak tô pak,rành rọt,きちんと
+소용없다,sô yông ơp ta,không có tác dụng,駄目だ
+입사,ip sa,vào công ty,入社
+(회사를) 옮기다,(huê sa rưl) um ki ta,chuyển công ty,(会社を)移す
+(회사를) 그만두다,(huê sa rưl) kư man tu ta,thôi việc(ở công ty),(会社を)やめる
+정년퇴직,chơng niơn thuê chik,về hưu theo tuổi,定年退職
+사직서,sa chik sơ,đơn thôi việc,辞表
+퇴직금,thuê chik kưm,trợ cấp thôi việc,退職金
+출근,trul kưn,đi làm,出勤
+퇴근,thuê kưn,tan sở,退勤
+야근,ya kưn,làm đêm,夜勤
+근무시간,kưn mu si kan,giờ làm việc,勤務時間
+회장,huê chang,chủ tịch,会場
+대기업,te chang,doanh nghiệp lớn,大企業
+중소기업,chung sô ki ơp,doanh nghiệp vừa và nhỏ,中小企業
+무역 회사,mu yơk huê sa,công ty thương mại,貿易会社
+건설 회사,kơn sơl huê sa,công ty xây dựng,建設会社
+자동차 회사,cha tông tra huê sa,công ty xe hơi,自動車会社
+증권회사,chưng quơn huê sa,công ty chứng khoán,証券会社
+보험회사,bô hơm huê sa,công ty bảo hiểm,保険会社
+IT 회사,ai ti huê sa,công ty IT (công nghệ thông tin),IT会社
+가전제품 회사,ka chơn chê phum huê sa,công ty điện gia dụng,家電製品会社
+절다,chơl ta,muối (muối dưa),漬ける
+태우다,the u ta,đốt cháy,乗せる
+형식,hiơng sik,hình thức,形式
+횟수,huêt su,số vòng,回数
+자원 절약,cha uơn chơl yak,tiết kiệm tài nguyên,省資源
+시간 절약,si kan chơl yak,tiết kiệm thời gian,時間の節約
+소비 절약,sô bi chơl yak,tiết kiệm tiêu dùng,消費節約
+절약 정신,chơl yak chơng sin,tinh thần tiết kiệm,節約精神
+돈을 펑펑쓰다,tôn ưl phiơng phiơng ssư ta,tiêu tiền bừa bãi,金を湯水のように使う
+돈을 물 쓰듯 하다,tôn ưl mul ssư tưt ha ta,tiêu tiền như nước,金を湯水のように使う
+의료비,ưi riô bi,chi phí y tế,医療費
+무이자 할부,mu i cha hal bu,trả góp không lãi suất,無利子割賦
+결제하다,kiơl chê ha ta,thanh toán,決済する
+한도 초과,han tô trô koa,quá định mức,限度超過
+감소하다,kam sô ha ta,giảm,減少する
+증가하다,chưng ka ha ta,tăng,増す
+곤란하다,kôn lan ha ta,khó khăn,困る
+밝히다,bal khi ta,làm rõ,明かす
+방송국,bang sông kuk,đài truyền hình,放送局
+세대 차이,sê te tra i,khác nhau giữa các thế hệ,世代差異
+강화하다,kang hoa ha ta,tăng cường,強化する
+동굴,tông kul,hang động,洞窟
+고개를 숙이다,kô ke rưl suk i ta,cúi đầu,頭を下げる
+구명조끼,ku miơng chô kki,phao cứu hộ,救命胴衣
+구조 장비,ku chô chang bi,thiết bị cứu hộ,救助装備
+대책을 세우다,te trek ưl sê u ta,lập ra đối sách,対策を立てる
+도난 사고,tô nan sa kô,sự cố mất cắp,盗難事故
+보호구역,bô hô ku yơk,khu vực bảo vệ,保護区域
+분석하다,bun sơk ha ta,phân tích,分析する
+붕대로 감다,bông te rô kam ta,băng bó bằng bông gạc,包帯で巻く
+쓰러지다,ssư rơ chi ta,ngất xỉu,倒れる
+음주 운전,ưm chu un chơn,lái xe khi say rượu,飲酒運転
+인터넷 보안,in thơ nêt bô an,bảo mật internet,インターネットセキュリティ
+조난 사고,chô nan sa kô,tai nạn thảm họa,遭難事故
+통계,thông kiê,thống kê,統計
+평평하다,phiơng phiơng ha ta,bằng phẳng,平らだ
+구조대원,ku chô te uơn,nhân viên cứu hộ,救助隊員
+신고하다,sin kô ha ta,khai báo,申告する
+구조하다,ku chô ha ta,cứu hộ,救助する
+사건이 발생하다,sa kơn i bal seng ha ta,sự cố phát sinh,事件が発生する
+사건을 해결하다,sa kơn i he kiơl ha ta,giải quyết sự cố,事件を解決する
+교통사고,kiô thông sa kô,tai nạn giao thông,交通事故
+안전사고,an chơn sa kô,tai nạn do bất cẩn,安全事故
+인명 사고,in miơng sa kô,tai nạn chết người,人命事故
+대형 사고,te hiơng sa kô,tai nạn lớn,大型事故
+과속 운전,koa sôk un chơn,lái xe quá tốc độ,スピード違反運転
+화재가 발생하다,hoa che ka bal seng ha ta,phát sinh hỏa hạn,火災が発生する
+사고를 당하다,sa kô rưl tang ha ta,bị tai nạn,事故に遭う
+실종되다,sil chông tuê ta,mất tích,失踪する
+부딪히다,bu tit chi ta,va chạm,ぶつかる
+주요 뉴스,chu yô niu sư,tin chính,主要ニュース
+피해자,phi he cha,nạn nhân,被害者
+피의자,phi i cha,người bị tình nghi,被疑者
+목격자,môk kiơk cha,người chứng kiến,目撃者
+사망자,sa mang cha,người chết,死亡者
+부상자,bu sang cha,người bị thương,負傷者
+실종자,sil chông cha,người mất tích,行方不明者
+사건/사고 현장,sa kơn/ sa kô hiơn chang,hiện trường tai nạn,事件·事故現場
+조사하다,chô sa ha ta,điều tra,調査する
+미끄러지다,mi kkư rơ chi ta,bị trơn trợt,滑る
+강제성,kang chê sơng,tính cưỡng chế,強制性
+거부감,kơ bu kam,có tính phản cảm,拒否感
+극복하다,kưk bôk ha ta,khắc phục,乗り切る
+마련하다,ma riơn ha ta,chuẩn bị,仕立てる
+보충하다,bô trung ha ta,bổ sung,補いをつける
+부작용,bu chak yông,tác dụng phụ,副作用
+비롯하다,bi rut ha ta,bao gồm,始まる
+시행되다,si heng tuê ta,thi hành,施行される
+실시하다,sil si ha ta,thực thi,実施する
+적응력,chơk ưng riơk,sức thích ứng,適応力
+전부,chơn bu,toàn bộ,全部
+정책,chơng trek,chính sách,政策
+창조적,trang chô chơk,tính sáng tạo,創造的
+총액,trông ek,tổng số tiền,総額
+해석하다,he sơk ha ta,giải thích,取る
+형편,hiơng phiơng,tình trạng,都合
+국립학교,kuk lip hak kiô,trường quốc gia,国立学校
+공립학교,kông lip hak kiô,trường công lập,公立学校
+사립학교,sa lip hak kiô,trường tư thục,私立学校
+의무교육,ưi mu kiô yuk,giáo dục bắt buộc,義務教育
+대학수학능력시험,te hak su hak nưng riơk si hơm,thi đại học,大学修学能力試験
+정시,chơng si,thời gian quy định,定時
+수시,su si,bất kỳ lúc nào,随時
+특수교육,thưk su kiô yuk,đào tạo đặc biệt,特殊教育
+해외 유학,he uê yu hak,du học nước ngoài,海外留学
+수험생,su hơm seng,thí sinh,受験生
+학원,hak uơn,học viện,塾
+과외,koa uê ha ta,học thêm,課外
+내신 성적,ne sin sơng chơk,thành tích riêng,内申成績
+경쟁이 치열하다,kiơng cheng i tri yơl ha ta,cạnh tranh gay gắt,競争が激しい
+강조,kang chô,sự nhấn mạnh,強調
+기상청,ki sang trơng,cục khí tượng,気象庁
+돗자리,tôt cha ri,tấm thảm trải,ござ
+무더위,mu tơ uy,nóng hầm hập,暑さ
+상승,sang sưng,sự tăng lên,上昇
+생물,seng mul,sinh vật,生物
+생태계,seng the kiê,hệ sinh thái,生態系
+열대우림,yơl te u lim,mưa rừng nhiệt đới,熱帯雨林
+영하권,yơng ha kuơn,khu vực nhiệt độ âm,零下圏
+이익,i ik,lợi ích,利益
+일기,il ki,nhật ký,日記
+재활용 수거함,che hoal yông su kơ ham,thùng thu gom đồ tái chế,リサイクル収集箱
+홍수,hông su,lũ lụt,洪水
+지구온난화,chi ku ôn nan hoa,sự nóng lên của trái đất,地球温暖化
+황사,hoang sa,bão cát,黄砂
+대기 오염,te ki ô yơm,ô nhiễm không khí,大気汚染
+기후변화,ki hu biơn hoa,sự thay đổi khí hậu,気候変動
+산성비,san sơng bi,mưa a-xít,酸性雨
+수질오염,su chil ô yơm,ô nhiễm nước,水質汚染
+이상 기온,i sang ki hô,khí hậu khác thường,異常気温
+이슬,i sưl,sương,露
+토양오염,thô yang ô yơm,ô nhiễm đất,土壌汚染
+오염 물질,ô y ơm mul chil,chất ô nhiễm,汚染物質
+자동차 매연,cha tông tra me yơm,khí thải xe,自動車煤煙
+공장 폐수,kông chang phiê su,nước thải nhà máy,工場廃水
+산업폐기물,san ơp phiê ki mul,chất thải công nghiệp,産業廃棄物
+생활하수,seng hoal ha su,nước thải sinh hoạt,生活下水
+일회용품,il huê yông phum,sản phẩm dùng 1 lần,使い捨て用品
+재활용품,che hoal yông phum,đồ tái sử dụng,リサイクル品
+에너지 절약,ê nơ chi chơl yak,tiết kiệm năng lượng,省エネ
+친환경 제품,trin hoan kiơng chê phum,sản phẩm thân thiện với môi trường,エコ製品
+게다가,kê ta ka,thêm vào đó,それに、
+고백,kô bek,tỏ tình,告白
+벌을 받다,bơl ưl bat ta,bị trừng phạt,罰を受ける
+복을 받다,bôk ưl bat ta,hưởng phúc,福を受ける
+생각이 떠오르다,seng kak i ttơ ô rư ta,nẩy ra ý nghĩ,考えが浮かぶ
+소문,sô mun,lời đồn đại,うわさ
+숨기다,sum ki ta,giấu giếm,隠す
+악기,ak ki,nhạc cụ,楽器
+운명,un miơng,vận mệnh,運命
+더하기,tơ ha ki,cộng,加えて
+빼기,ppe ki,trừ,抜き
+곱하기,kôp ha ki,nhân,掛け算
+나누기,na nu ki,chia,分かち合い
+제곱,chê k ôp,bình phương,自乗
+경제협력,kiơng chê hiơp riơk,sự hợp tác kinh tế,経済協力
+뷔페식,buy phê sik,tiệc buffe,ビュッフェ式
+이민을 가다,i min ưl ka ta,đi di dân,移民に行く
+자리잡다,cha ri chap ta,chiếm giữ,落ち着く
+주관하다,chu koan ha ta,chủ quan,主観する
+고령화,k ô riơng hoa,sự lão hóa dân số,高齢化
+삼국시대,sam kuk si te,thời kỳ tam quốc ,三国時代
+유래되다,yu re tuê ta,được lưu truyền,由来する
+저렴하다,chơ riơm ha ta,hợp lý (giá cả),安い
+출산율,trul san yul,tỉ lệ sinh sản,出産率
+토속상품,thô sôk sang phum,sản phẩm truyền thống,土俗商品
+통합 관람제,thông hap koan lam chê,khu tham quan tổng hợp,統合観覧制
+풍물,phung mul,cảnh vật,風物
+한글 창제,han kưl trang chê,sự sáng chế chữ Hangul,ハングル創製
+상징,sang chinh,tượng trưng,象徴
+수도,su tô,thủ đô,首都
+한옥,Han ôk,nhà Hàn Quốc kiểu truyền thống,韓屋
+고궁,kô kung,cố cung,古宮
+중심지,chung sim chi,khu trung tâm,中心地
+수도권,su tô kuơn,khu vực thủ đô,首都圏
+건국되다,kơn kuk tuê ta,kiến quốc,建国される
+관광객을 유치하다,koan koang kek ưl yu tri ha ta,thu hút khách du lịch,観光客を誘致する
+밀집되다,mil chip tuê ta,tập trung dày đặc,密集する
+면적,miên chơk,diện tích,面積
+지형,chi hiơng,địa hình,地形
+혼잡하다,hôn chap ha ta,hỗn tạp,混雑する
+공존하다,kông chôn ha ta,cùng tồn tại,共存する
+도약하다,tô yak ha ta,vượt lên,跳躍する
+어우러지다,ơ u rơ chi ta,hòa nhập vào,調和する
+부각시키다,bu kak si khi ta,làm nổi bật,浮き彫りにする
+대책을 마련하다,te trek ưl ma liơn ha ta,đề ra đối sách,対策を設ける
+연계되다,yơn kiê tuê ta,được kết nối,繋がる
+연관을 짓다,yơn koan ưl chit ta,tạo mối liên quan,鉛管を建てる
+배출하다,be trul ha ta,thải ra,排出する
+예방,yê bang,phòng ngừa,予防
+약,yak,thuốc,薬
+안약,an yak,thuốc nhỏ mắt,目薬
+보약,bô yak,thuốc bổ,補薬
+멀미약,mơl mi yak,thuốc chống say tàu xe,酔い止め薬
+한약,han yak,thuốc đông y ,漢方薬
+야식,ya sik,việc ăn đêm,夜食
+채식,tre sik,việc ăn chay,菜食
+당뇨병,tang niô biơng,bệnh tiểu đường,糖尿病
+속이 더부룩하다,sôk i tơ bu ruk ha ta,đầy hơi,胃がもたれる
+속이 쓰리다,sôk i ss ư ri,sôi trong ruột, 胸が焼ける
+독자 투고,tôk cha thu kô,thu thập ý kiến độc giả,読者投稿
+여론 조사,yơ lôn chô sa,sự điều tra dư luận,世論調査
+정보화 사회,chơng bô hoa sa huê,xã hội thông tin hóa,情報化社会
+비평,bi phiơng,sự phê bình,批評
+편집,phiơn chip,việc biên tập,編集
+본문,bôn mun,thân bài,本文
+감염성 질병,kam yơn sơng,bệnh truyền nhiễm,感染性疾患
+고매하다,kô me ha ta,cao quý,高邁だ
+무방하다,mu bang ha ta,không có vấn đề gì,構わない
+신중하다,sin chung ha ta,thận trọng,慎重だ
+요건,yô kơn,điều kiện,要件
+용량,yông riang,dung lượng,容量
+저출산,chơ trul san,tỉ lệ sinh thấp,少子化
+비판,bi phan,sự phê phán,批判
+비유,bi yul,lối ẩn dụ,比喩
+눈길을 끌다,nun kil ưl kkưl ta,gây chú ý,目を引く
+노출시키다,nô trul si khi ta,làm cho phơi bày ra,露出させる
+면역력,miơn yơk riơk,sức miễn dịch,免疫力
+부추기다,bu tru ki ta,kích động,煽る
+언급하다,ơn kưp ha ta,đề cập đến,言及する
